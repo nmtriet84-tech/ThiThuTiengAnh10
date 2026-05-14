@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Luyện Thi Tuyển Sinh 10 - Mobile</title>
+    <link rel="stylesheet" href="mobile.css">
+</head>
+<body>
+    <header>
+        <div id="quiz-title">Phần 1: Multiple Choice</div>
+        <div class="progress-container">
+            <div id="progress-bar" class="progress-bar"></div>
+        </div>
+    </header>
+
+    <main id="quiz-main">
+        <!-- Home Screen -->
+        <div id="home-screen" class="quiz-card">
+            <h1 style="margin-bottom: 15px;">Sẵn sàng chưa?</h1>
+            <p style="color: #64748b; margin-bottom: 30px;">Bộ đề 40 câu hỏi tổng hợp theo cấu trúc đề thi chính thức.</p>
+            <button class="btn btn-primary" onclick="startQuiz()" style="width: 100%;">Bắt Đầu Làm Bài</button>
+        </div>
+
+        <!-- Quiz Container -->
+        <div id="quiz-container" style="display: none;">
+            <div class="instruction" id="instruction-text">Chọn đáp án đúng</div>
+            <div id="passage-container" class="passage-text" style="display: none;"></div>
+            <div class="question-text" id="question-text">Đang tải câu hỏi...</div>
+            <div class="options-list" id="options-list">
+                <!-- Options will be injected here -->
+            </div>
+            <div id="feedback-text" style="margin-top: 15px; font-weight: 600; display: none;"></div>
+        </div>
+
+        <!-- Result Screen -->
+        <div id="result-screen" class="quiz-card result-screen" style="display: none;">
+            <h2>Kết Quả</h2>
+            <div class="score-badge" id="final-score">0/40</div>
+            <p id="result-msg" style="margin-bottom: 30px;">Cố gắng luyện tập thêm nhé!</p>
+            <button class="btn btn-primary" onclick="location.reload()" style="width: 100%;">Làm Lại Bộ Khác</button>
+        </div>
+    </main>
+
+    <footer id="quiz-footer" style="display: none;">
+        <button class="btn btn-secondary" onclick="prevQuestion()" id="prev-btn">Quay Lại</button>
+        <button class="btn btn-primary" onclick="nextQuestion()" id="next-btn">Tiếp Theo</button>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="mobile.js"></script>
+</body>
+</html>
