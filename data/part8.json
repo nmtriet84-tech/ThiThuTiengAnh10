@@ -1,0 +1,562 @@
+﻿[
+    {
+        "id":  "Part8-2",
+        "question_reading":  "",
+        "explanation":  "Động từ thường \u0027sang\u0027 (quá khứ của sing) cần một trạng từ đứng sau để bổ nghĩa cho nó (\u0027beautifully\u0027).",
+        "answer":  1,
+        "options":  [
+                        "beautiful",
+                        "beautifully",
+                        "beautify",
+                        "beauty"
+                    ],
+        "question":  "Linh sang the song ______ and everyone clapped. (BEAUTY)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-3",
+        "question_reading":  "",
+        "explanation":  "Sau mạo từ \u0027the\u0027 và trước giới từ \u0027of\u0027 cần một danh từ chỉ sự vật/sự việc (\u0027development\u0027: sự phát triển).",
+        "answer":  0,
+        "options":  [
+                        "development",
+                        "developing",
+                        "developed",
+                        "developer"
+                    ],
+        "question":  "Tourism plays an important part in the ______ of many nations. (DEVELOP)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-4",
+        "question_reading":  "",
+        "explanation":  "Câu thiếu động từ chính. Dấu hiệu thời gian \u0027last year\u0027 yêu cầu động từ phải chia ở thì quá khứ đơn (\u0027polluted\u0027).",
+        "answer":  1,
+        "options":  [
+                        "polluting",
+                        "polluted",
+                        "pollution",
+                        "pollutes"
+                    ],
+        "question":  "Industrial waste ______ the water in this village last year. (POLLUTION)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-5",
+        "question_reading":  "",
+        "explanation":  "Sau động từ to-be \u0027was\u0027 cần một tính từ. Vì chủ ngữ \u0027The novel\u0027 là vật gây ra cảm giác thú vị, ta dùng tính từ đuôi -ing (\u0027interesting\u0027).",
+        "answer":  3,
+        "options":  [
+                        "interestingly",
+                        "interested",
+                        "interest",
+                        "interesting"
+                    ],
+        "question":  "The novel was _____ enough to keep everyone reading till the end. (INTEREST)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-6",
+        "question_reading":  "",
+        "explanation":  "Sau tân ngữ \u0027the task\u0027 của động từ thường \u0027completed\u0027 cần một trạng từ để bổ nghĩa cho hành động (\u0027successfully\u0027: một cách thành công).",
+        "answer":  2,
+        "options":  [
+                        "successful",
+                        "succeed",
+                        "successfully",
+                        "success"
+                    ],
+        "question":  "He completed the task ______ without any help. (SUCCESS)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-7",
+        "question_reading":  "",
+        "explanation":  "Sau động từ \u0027read\u0027 và tân ngữ \u0027the instructions\u0027 cần trạng từ (\u0027carefully\u0027: một cách cẩn thận).",
+        "answer":  0,
+        "options":  [
+                        "carefully",
+                        "careful",
+                        "care",
+                        "careless"
+                    ],
+        "question":  "You must read the instructions ______ before using the machine. (CARE)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-8",
+        "question_reading":  "",
+        "explanation":  "Sau \u0027the most\u0027 và trước danh từ \u0027destinations\u0027 cần một tính từ (\u0027attractive\u0027: hấp dẫn).",
+        "answer":  0,
+        "options":  [
+                        "attractive",
+                        "attractively",
+                        "attraction",
+                        "attract"
+                    ],
+        "question":  "Ha Long Bay is one of the most ______ destinations in Vietnam. (ATTRACT)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-9",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027It is + adj + to V\u0027 yêu cầu một tính từ (\u0027dangerous\u0027: nguy hiểm).",
+        "answer":  2,
+        "options":  [
+                        "dangerously",
+                        "danger",
+                        "dangerous",
+                        "endanger"
+                    ],
+        "question":  "It is ______ to drive too fast on this slippery road. (DANGER)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-10",
+        "question_reading":  "",
+        "explanation":  "Sau động từ to-be \u0027are\u0027 và trạng từ chỉ mức độ \u0027very\u0027 cần một tính từ (\u0027friendly\u0027: thân thiện).",
+        "answer":  1,
+        "options":  [
+                        "friendship",
+                        "friendly",
+                        "friendless",
+                        "secretly"
+                    ],
+        "question":  "The local people are very ______ to visitors. (FRIEND)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-11",
+        "question_reading":  "",
+        "explanation":  "Sau tính từ \u0027true\u0027 cần một danh từ (\u0027happiness\u0027: niềm hạnh phúc).",
+        "answer":  0,
+        "options":  [
+                        "happiness",
+                        "happily",
+                        "unhappy",
+                        "happy"
+                    ],
+        "question":  "Money cannot buy true ______. (HAPPY)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-12",
+        "question_reading":  "",
+        "explanation":  "Trước danh từ \u0027environment\u0027 cần một tính từ (\u0027natural\u0027: thuộc về tự nhiên).",
+        "answer":  1,
+        "options":  [
+                        "nature",
+                        "natural",
+                        "naturalize",
+                        "naturally"
+                    ],
+        "question":  "We should protect our ______ environment. (NATURE)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-13",
+        "question_reading":  "",
+        "explanation":  "Sau giới từ \u0027of\u0027 cần một danh từ (\u0027information\u0027: thông tin).",
+        "answer":  1,
+        "options":  [
+                        "inform",
+                        "information",
+                        "informative",
+                        "informally"
+                    ],
+        "question":  "The internet is a very useful source of ______. (INFORM)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-14",
+        "question_reading":  "",
+        "explanation":  "Trước danh từ \u0027opportunity\u0027 cần một tính từ (\u0027educational\u0027: mang tính giáo dục).",
+        "answer":  1,
+        "options":  [
+                        "educate",
+                        "educational",
+                        "education",
+                        "educator"
+                    ],
+        "question":  "Going to university is a great ______ opportunity. (EDUCATE)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-15",
+        "question_reading":  "",
+        "explanation":  "Sau mạo từ \u0027a\u0027 và tính từ \u0027tough\u0027 cần một danh từ (\u0027decision\u0027: quyết định).",
+        "answer":  2,
+        "options":  [
+                        "decisive",
+                        "decidedly",
+                        "decision",
+                        "decide"
+                    ],
+        "question":  "It was a tough ______, but I finally chose to study abroad. (DECIDE)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-16",
+        "question_reading":  "",
+        "explanation":  "Trước danh từ \u0027dress\u0027 cần tính từ bổ nghĩa (\u0027traditional\u0027: truyền thống).",
+        "answer":  1,
+        "options":  [
+                        "tradition",
+                        "traditional",
+                        "traditionalist",
+                        "traditionally"
+                    ],
+        "question":  "Ao Dai is the ______ dress of Vietnamese women. (TRADITION)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-17",
+        "question_reading":  "",
+        "explanation":  "Sau mạo từ \u0027a\u0027 và tính từ \u0027wonderful\u0027 cần danh từ chỉ sự việc (\u0027performance\u0027: màn trình diễn).",
+        "answer":  3,
+        "options":  [
+                        "performer",
+                        "perform",
+                        "performing",
+                        "performance"
+                    ],
+        "question":  "The singer gave a wonderful ______ last night. (PERFORM)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-18",
+        "question_reading":  "",
+        "explanation":  "Sau động từ to-be \u0027was\u0027 và trạng từ \u0027very\u0027 cần tính từ (\u0027impressive\u0027: ấn tượng).",
+        "answer":  3,
+        "options":  [
+                        "impress",
+                        "impressively",
+                        "impression",
+                        "impressive"
+                    ],
+        "question":  "His presentation was very ______; everyone liked it. (IMPRESS)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-19",
+        "question_reading":  "",
+        "explanation":  "Sau to-be \u0027is not\u0027 cần tính từ (\u0027reliable\u0027: đáng tin cậy).",
+        "answer":  0,
+        "options":  [
+                        "reliable",
+                        "rely",
+                        "reliability",
+                        "reliably"
+                    ],
+        "question":  "Don\u0027t buy that old car; it is not ______. (RELY)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-20",
+        "question_reading":  "",
+        "explanation":  "Sau to-be \u0027is\u0027 và \u0027very\u0027 cần tính từ. Nghĩa của câu (sống một mình) yêu cầu tính từ \u0027independent\u0027 (độc lập).",
+        "answer":  1,
+        "options":  [
+                        "dependent",
+                        "independent",
+                        "depend",
+                        "independence"
+                    ],
+        "question":  "She has lived alone for years and is very ______. (DEPEND)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-21",
+        "question_reading":  "",
+        "explanation":  "Chủ ngữ của câu cần danh từ chỉ người số nhiều (\u0027scientists\u0027: các nhà khoa học).",
+        "answer":  0,
+        "options":  [
+                        "scientists",
+                        "scientifically",
+                        "scientific",
+                        "science"
+                    ],
+        "question":  "Many ______ are working hard to find a cure for the disease. (SCIENCE)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-22",
+        "question_reading":  "",
+        "explanation":  "Tính từ miêu tả đặc điểm bản chất của sự vật (the view) cần đuôi -ing (\u0027amazing\u0027).",
+        "answer":  1,
+        "options":  [
+                        "amaze",
+                        "amazing",
+                        "amazement",
+                        "amazed"
+                    ],
+        "question":  "The view from the top of the mountain is absolutely ______. (AMAZE)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-23",
+        "question_reading":  "",
+        "explanation":  "Tính từ miêu tả cảm xúc của con người cần đuôi -ed (\u0027bored\u0027).",
+        "answer":  1,
+        "options":  [
+                        "boring",
+                        "bored",
+                        "bore",
+                        "boredom"
+                    ],
+        "question":  "I felt very ______ because the movie was terrible. (BORE)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-24",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027To one\u0027s + Noun\u0027 (To my disappointment: Thật đáng thất vọng đối với tôi).",
+        "answer":  0,
+        "options":  [
+                        "disappointment",
+                        "disappointed",
+                        "disappointing",
+                        "disappoint"
+                    ],
+        "question":  "To my ______, my favorite team lost the match. (DISAPPOINT)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-25",
+        "question_reading":  "",
+        "explanation":  "Sau giới từ \u0027with\u0027 cần danh từ (\u0027excitement\u0027: sự phấn khích).",
+        "answer":  3,
+        "options":  [
+                        "exciting",
+                        "excited",
+                        "excite",
+                        "excitement"
+                    ],
+        "question":  "The children shouted with ______ when they saw the clown. (EXCITE)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-26",
+        "question_reading":  "",
+        "explanation":  "Sau \u0027too\u0027 cần tính từ. Nghĩa của câu (thi rớt) yêu cầu tính từ mang nghĩa tiêu cực (\u0027careless\u0027: bất cẩn).",
+        "answer":  3,
+        "options":  [
+                        "carelessly",
+                        "care",
+                        "careful",
+                        "careless"
+                    ],
+        "question":  "He failed the exam because he was too ______ with his homework. (CARE)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-27",
+        "question_reading":  "",
+        "explanation":  "Sau to-be \u0027is\u0027 và \u0027very\u0027 cần tính từ. Ngữ cảnh tích cực nên dùng \u0027healthy\u0027.",
+        "answer":  1,
+        "options":  [
+                        "unhealthy",
+                        "healthy",
+                        "health",
+                        "healthily"
+                    ],
+        "question":  "Eating fresh fruits and vegetables is very ______. (HEALTH)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-28",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027be famous for something\u0027 (nổi tiếng vì điều gì).",
+        "answer":  1,
+        "options":  [
+                        "fame",
+                        "famous",
+                        "infamous",
+                        "famously"
+                    ],
+        "question":  "Paris is ______ for its iconic Eiffel Tower. (FAME)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-29",
+        "question_reading":  "",
+        "explanation":  "Sau mạo từ \u0027the\u0027 cần danh từ (\u0027difference\u0027: sự khác biệt).",
+        "answer":  1,
+        "options":  [
+                        "differently",
+                        "difference",
+                        "differ",
+                        "different"
+                    ],
+        "question":  "Can you tell me the ______ between these two pictures? (DIFFER)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-30",
+        "question_reading":  "",
+        "explanation":  "Sau mạo từ \u0027the\u0027 và trước \u0027of\u0027 cần danh từ (\u0027importance\u0027: tầm quan trọng).",
+        "answer":  0,
+        "options":  [
+                        "importance",
+                        "importantly",
+                        "unimportant",
+                        "important"
+                    ],
+        "question":  "We must realize the ______ of protecting the forests. (IMPORTANT)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-31",
+        "question_reading":  "",
+        "explanation":  "Sau tính từ \u0027great\u0027 cần danh từ chỉ người đóng vai trò chủ ngữ phụ (\u0027inventor\u0027: nhà phát minh).",
+        "answer":  3,
+        "options":  [
+                        "invent",
+                        "inventive",
+                        "invention",
+                        "inventor"
+                    ],
+        "question":  "Thomas Edison was a great ______ who created the light bulb. (INVENT)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-32",
+        "question_reading":  "",
+        "explanation":  "Sau \u0027to\u0027 chỉ mục đích cần một động từ nguyên mẫu (\u0027purify\u0027: thanh lọc, làm sạch).",
+        "answer":  1,
+        "options":  [
+                        "pure",
+                        "purify",
+                        "purely",
+                        "purity"
+                    ],
+        "question":  "They use special filters to ______ the drinking water. (PURE)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-33",
+        "question_reading":  "",
+        "explanation":  "Sau \u0027to\u0027 (trong plans to do something) cần động từ nguyên mẫu (\u0027modernize\u0027: hiện đại hóa).",
+        "answer":  0,
+        "options":  [
+                        "modernize",
+                        "modernly",
+                        "modernization",
+                        "modern"
+                    ],
+        "question":  "The city plans to ______ its public transport system next year. (MODERN)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-34",
+        "question_reading":  "",
+        "explanation":  "Trạng từ đứng đầu câu, cách mệnh đề chính bằng dấu phẩy để bổ nghĩa cho cả câu (\u0027Luckily\u0027: May mắn thay).",
+        "answer":  3,
+        "options":  [
+                        "Lucky",
+                        "Unluckily",
+                        "Luck",
+                        "Luckily"
+                    ],
+        "question":  "______, we didn\u0027t miss the train despite the traffic jam. (LUCK)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-35",
+        "question_reading":  "",
+        "explanation":  "Động từ thường \u0027playing\u0027 cần trạng từ bổ nghĩa cách thức (\u0027noisily\u0027: một cách ồn ào).",
+        "answer":  3,
+        "options":  [
+                        "noiseless",
+                        "noise",
+                        "noisy",
+                        "noisily"
+                    ],
+        "question":  "The kids were playing ______ in the yard. (NOISE)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-36",
+        "question_reading":  "",
+        "explanation":  "Liên từ \u0027and\u0027 nối hai từ cùng loại. \u0027quietly\u0027 là trạng từ nên phía sau cũng cần trạng từ (\u0027peacefully\u0027).",
+        "answer":  0,
+        "options":  [
+                        "peacefully",
+                        "peaceable",
+                        "peaceful",
+                        "peace"
+                    ],
+        "question":  "They live quietly and ______ in a small village. (PEACE)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-37",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027keep + tân ngữ + tính từ\u0027 (\u0027active\u0027: năng động).",
+        "answer":  2,
+        "options":  [
+                        "actively",
+                        "action",
+                        "active",
+                        "actor"
+                    ],
+        "question":  "Regular exercise keeps you fit and ______. (ACT)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-38",
+        "question_reading":  "",
+        "explanation":  "Sau \u0027to\u0027 chỉ mục đích cần một động từ nguyên mẫu (\u0027beautify\u0027: làm đẹp).",
+        "answer":  3,
+        "options":  [
+                        "beautifully",
+                        "beauty",
+                        "beautiful",
+                        "beautify"
+                    ],
+        "question":  "More trees should be planted to ______ the city. (BEAUTY)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-39",
+        "question_reading":  "",
+        "explanation":  "Sau tính từ \u0027important\u0027 cần danh từ (\u0027celebration\u0027: dịp lễ hội, sự kỷ niệm).",
+        "answer":  1,
+        "options":  [
+                        "celebrate",
+                        "celebration",
+                        "celebrant",
+                        "celebratory"
+                    ],
+        "question":  "Tet is the most important ______ for Vietnamese people. (CELEBRATE)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-40",
+        "question_reading":  "",
+        "explanation":  "Sau tính từ sở hữu \u0027his\u0027 cần danh từ chỉ thời kỳ (\u0027childhood\u0027: thời thơ ấu).",
+        "answer":  3,
+        "options":  [
+                        "childish",
+                        "child",
+                        "children",
+                        "childhood"
+                    ],
+        "question":  "He spent most of his ______ living in the countryside. (CHILD)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    },
+    {
+        "id":  "Part8-41",
+        "question_reading":  "",
+        "explanation":  "Trước danh từ \u0027language\u0027 cần tính từ. Nghĩa \u0027used all over the world\u0027 (sử dụng trên toàn thế giới) tương ứng với \u0027international\u0027 (quốc tế).",
+        "answer":  3,
+        "options":  [
+                        "nation",
+                        "national",
+                        "internationally",
+                        "international"
+                    ],
+        "question":  "English has become an ______ language used all over the world. (NATION)",
+        "instruction":  "Complete each of the following sentences with the correct forms of the words in the brackets"
+    }
+]

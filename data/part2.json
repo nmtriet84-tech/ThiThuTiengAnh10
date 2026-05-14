@@ -1,0 +1,282 @@
+﻿[
+    {
+        "id":  "Part2-2",
+        "question_reading":  "",
+        "explanation":  "Lời chúc mừng \u0027Congratulations!\u0027 được dùng để đáp lại khi ai đó báo một tin vui (thi đậu điểm cao).",
+        "answer":  0,
+        "options":  [
+                        "Congratulations!",
+                        "You’re welcome.",
+                        "No problem.",
+                        "Not at all."
+                    ],
+        "question":  "Nga: \u0027I have passed the exam with high marks.\u0027 - Lan: \u0027________\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-3",
+        "question_reading":  "",
+        "explanation":  "\u0027Great. Let’s do that.\u0027 dùng để đồng ý với một lời đề nghị (Why don\u0027t we...).",
+        "answer":  3,
+        "options":  [
+                        "I’m sorry to hear about that.",
+                        "I’m fine, thanks.",
+                        "What a nice gift!",
+                        "Great. Let’s do that."
+                    ],
+        "question":  "Jane: \u0027Why don’t we go to the cinema tonight?\u0027 - Nick: \u0027________\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-4",
+        "question_reading":  "",
+        "explanation":  "\u0027Never mind\u0027 (Không sao đâu) thường được dùng để đáp lại lời xin lỗi.",
+        "answer":  1,
+        "options":  [
+                        "That\u0027s right.",
+                        "Never mind.",
+                        "I\u0027d love to.",
+                        "You\u0027re welcome."
+                    ],
+        "question":  "Tom: \u0027I\u0027m terribly sorry for stepping on your foot.\u0027 - Mary: \u0027________\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-5",
+        "question_reading":  "",
+        "explanation":  "Đáp lại lời khen ngợi một cách lịch sự, ta thường dùng \u0027It\u0027s very nice of you to say so\u0027 (Bạn thật tốt khi nói vậy).",
+        "answer":  0,
+        "options":  [
+                        "It\u0027s very nice of you to say so.",
+                        "You\u0027re entirely welcome.",
+                        "I don\u0027t like it either.",
+                        "No, thanks. I\u0027m full."
+                    ],
+        "question":  "Peter: \u0027What a beautiful dress you are wearing today, Sarah!\u0027 - Sarah: \u0027________\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-6",
+        "question_reading":  "",
+        "explanation":  "\u0027Yes, please. That\u0027s very kind of you\u0027 dùng để chấp nhận lời đề nghị giúp đỡ.",
+        "answer":  3,
+        "options":  [
+                        "What a pity!",
+                        "I agree with you.",
+                        "No, I can\u0027t help you.",
+                        "Yes, please. That\u0027s very kind of you."
+                    ],
+        "question":  "Shop assistant: \u0027Can I help you with your luggage, madam?\u0027 - Customer: \u0027________\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-7",
+        "question_reading":  "",
+        "explanation":  "\u0027I couldn\u0027t agree with you more\u0027 thể hiện sự hoàn toàn đồng tình với ý kiến vừa được đưa ra.",
+        "answer":  2,
+        "options":  [
+                        "You must be kidding",
+                        "I absolutely disagree",
+                        "I couldn\u0027t agree with you more",
+                        "I\u0027m not sure about that"
+                    ],
+        "question":  "Alex: \u0027I firmly believe that reading books is better than watching TV.\u0027 - Bob: \u0027________. Books encourage imagination.\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-8",
+        "question_reading":  "",
+        "explanation":  "\u0027I\u0027d love to, but...\u0027 là cách từ chối lời mời một cách lịch sự vì có lý do chính đáng.",
+        "answer":  3,
+        "options":  [
+                        "No, I hate your dinner.",
+                        "You\u0027re so kind to me.",
+                        "Yes, it is very expensive.",
+                        "I\u0027d love to, but I have a deadline to meet."
+                    ],
+        "question":  "Linda: \u0027Would you like to join us for dinner this evening?\u0027 - David: \u0027________\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-9",
+        "question_reading":  "",
+        "explanation":  "Trả lời \u0027No, not at all\u0027 (Không phiền chút nào) cho câu hỏi \u0027Would you mind if...\u0027 thể hiện sự đồng ý, cho phép.",
+        "answer":  1,
+        "options":  [
+                        "Yes, please don\u0027t.",
+                        "No, not at all. Go ahead.",
+                        "No, thanks. I\u0027m cold.",
+                        "Yes, I would mind."
+                    ],
+        "question":  "Student: \u0027Would you mind if I opened the window? It\u0027s quite stuffy in here.\u0027 - Teacher: \u0027________\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-10",
+        "question_reading":  "",
+        "explanation":  "\u0027Hard luck!\u0027 (Thật xui xẻo / Rất tiếc) dùng để chia buồn hoặc an ủi ai đó khi họ gặp thất bại.",
+        "answer":  0,
+        "options":  [
+                        "Hard luck!",
+                        "You\u0027re welcome.",
+                        "Good idea!",
+                        "Congratulations!"
+                    ],
+        "question":  "Anna: \u0027I failed my driving test again!\u0027 - Bella: \u0027________. You can try again next month.\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-11",
+        "question_reading":  "",
+        "explanation":  "Đáp lại lời khuyên, ta dùng lời cảm ơn và xác nhận sẽ làm theo hướng dẫn.",
+        "answer":  1,
+        "options":  [
+                        "You\u0027re exactly right. Let\u0027s walk.",
+                        "Thanks for your advice, Mom. I will.",
+                        "Yes, I prefer walking in the rain.",
+                        "I don\u0027t think it\u0027s a good idea."
+                    ],
+        "question":  "Mother: \u0027You’d better take a taxi; it’s raining heavily outside.\u0027 - Son: \u0027________\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-12",
+        "question_reading":  "",
+        "explanation":  "\u0027It was my pleasure\u0027 (Đó là niềm vinh hạnh của tôi) là một cách lịch sự và chân thành để đáp lại lời cảm ơn.",
+        "answer":  3,
+        "options":  [
+                        "You shouldn\u0027t have done that.",
+                        "Don\u0027t mention it to anyone.",
+                        "Yes, I was very tired.",
+                        "It was my pleasure."
+                    ],
+        "question":  "John: \u0027Thank you so much for picking me up from the airport.\u0027 - Michael: \u0027________\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-13",
+        "question_reading":  "",
+        "explanation":  "Đáp lại câu hỏi chỉ đường, người nói cần đưa ra hướng dẫn cụ thể thay vì chỉ trả lời \u0027Yes/No\u0027.",
+        "answer":  1,
+        "options":  [
+                        "It doesn\u0027t matter.",
+                        "Go straight ahead and take the first turning on the right.",
+                        "I hope so.",
+                        "Yes, I could tell you."
+                    ],
+        "question":  "Passenger: \u0027Could you please tell me where the nearest subway station is?\u0027 - Passerby: \u0027________\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-14",
+        "question_reading":  "",
+        "explanation":  "Câu hỏi \u0027How would you like your steak done?\u0027 dùng để hỏi mức độ chín của thịt bò (Rare, Medium, Well-done...).",
+        "answer":  1,
+        "options":  [
+                        "No, I don\u0027t like steak.",
+                        "Medium rare, please.",
+                        "It\u0027s perfectly fine.",
+                        "I like it very much."
+                    ],
+        "question":  "Waiter: \u0027How would you like your steak done, sir?\u0027 - Customer: \u0027________\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-15",
+        "question_reading":  "",
+        "explanation":  "\u0027I beg to differ\u0027 là một cách nói lịch sự, trang trọng để thể hiện sự bất đồng quan điểm (Tôi không đồng ý).",
+        "answer":  0,
+        "options":  [
+                        "I beg to differ",
+                        "You can say that again",
+                        "There is no doubt about it",
+                        "I absolutely agree"
+                    ],
+        "question":  "Emma: \u0027I think artificial intelligence will replace human teachers entirely in the future.\u0027 - Mark: \u0027________. Human interaction is irreplaceable.\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-16",
+        "question_reading":  "",
+        "explanation":  "Thành ngữ \u0027Break a leg!\u0027 được dùng để chúc ai đó may mắn trước một màn trình diễn hoặc kỳ thi quan trọng.",
+        "answer":  3,
+        "options":  [
+                        "Good morning!",
+                        "Have a nice trip!",
+                        "Congratulations!",
+                        "Break a leg!"
+                    ],
+        "question":  "Susan: \u0027I\u0027m taking my IELTS speaking test tomorrow morning.\u0027 - Chris: \u0027________\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-17",
+        "question_reading":  "",
+        "explanation":  "\u0027I am deeply sorry for your loss\u0027 là câu nói tiêu chuẩn và trang trọng để chia buồn khi ai đó có người thân qua đời.",
+        "answer":  3,
+        "options":  [
+                        "It\u0027s nothing serious.",
+                        "That\u0027s great news!",
+                        "Better luck next time.",
+                        "I am deeply sorry for your loss."
+                    ],
+        "question":  "Kevin: \u0027My grandfather passed away last week due to a heart attack.\u0027 - Laura: \u0027________\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-18",
+        "question_reading":  "",
+        "explanation":  "Dùng cấu trúc \u0027How about + V-ing?\u0027 để đưa ra một lời gợi ý.",
+        "answer":  3,
+        "options":  [
+                        "Yes, we do have a few days off.",
+                        "I am staying at home.",
+                        "Because we are tired.",
+                        "How about taking a short trip to the mountains?"
+                    ],
+        "question":  "Rachel: \u0027We have a few days off next week. Where should we go?\u0027 - Paul: \u0027________\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-19",
+        "question_reading":  "",
+        "explanation":  "Khi khách hàng phàn nàn, nhân viên phục vụ cần xin lỗi một cách chân thành trước (\u0027I sincerely apologize for that\u0027).",
+        "answer":  1,
+        "options":  [
+                        "That\u0027s entirely your problem.",
+                        "I sincerely apologize for that.",
+                        "You should have been more careful.",
+                        "It\u0027s not my fault."
+                    ],
+        "question":  "Customer: \u0027Excuse me, but there\u0027s a fly in my soup!\u0027 - Waiter: \u0027________. I\u0027ll get you a new one right away.\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-20",
+        "question_reading":  "",
+        "explanation":  "Thành ngữ \u0027You\u0027re pulling my leg\u0027 mang nghĩa \u0027Bạn đang đùa tôi đấy à\u0027, thể hiện sự ngạc nhiên trước một tin tức tốt khó tin.",
+        "answer":  1,
+        "options":  [
+                        "How disappointing",
+                        "You\u0027re pulling my leg",
+                        "I\u0027m not surprised",
+                        "What a shame"
+                    ],
+        "question":  "Harry: \u0027Did you know that Samantha has just won a scholarship to Harvard?\u0027 - Ron: \u0027________! She really deserves it.\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    },
+    {
+        "id":  "Part2-21",
+        "question_reading":  "",
+        "explanation":  "\u0027Could you say that again, please?\u0027 dùng để yêu cầu người khác lặp lại thông tin khi mình chưa nghe rõ.",
+        "answer":  3,
+        "options":  [
+                        "What do you mean",
+                        "I totally understand",
+                        "Can you speak louder",
+                        "Could you say that again, please"
+                    ],
+        "question":  "Speaker: \u0027The password for the Wi-Fi is XyZ789abc.\u0027 - Listener: \u0027________? I didn\u0027t quite catch that.\u0027",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best completes each of the following exchanges."
+    }
+]

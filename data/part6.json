@@ -1,0 +1,702 @@
+﻿[
+    {
+        "id":  "Part6-2",
+        "question_reading":  "The Students’ Sports Club",
+        "explanation":  "Cấu trúc \u0027a great way to do something\u0027 mang nghĩa là \u0027một cách tuyệt vời để làm gì đó\u0027.",
+        "answer":  2,
+        "options":  [
+                        "improving",
+                        "improve",
+                        "to improve",
+                        "improved"
+                    ],
+        "question":  "Joining the club is a great way (1) _____ your health …",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-3",
+        "question_reading":  "The Students’ Sports Club",
+        "explanation":  "Liên từ \u0027and\u0027 (và) được dùng để nối phần tử cuối cùng trong một danh sách liệt kê các môn thể thao.",
+        "answer":  2,
+        "options":  [
+                        "or",
+                        "but",
+                        "and",
+                        "so"
+                    ],
+        "question":  "Activities: basketball, badminton, swimming, (2) _____  athletics.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-4",
+        "question_reading":  "The Students’ Sports Club",
+        "explanation":  "Giới từ \u0027at\u0027 luôn được dùng trước các mốc thời gian cụ thể trong ngày (ví dụ: at 4:00 p.m.).",
+        "answer":  0,
+        "options":  [
+                        "at",
+                        "in",
+                        "on",
+                        "for"
+                    ],
+        "question":  "Time: every Tuesday and Thursday, (3) _____  4:00 p.m.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-5",
+        "question_reading":  "The Students’ Sports Club",
+        "explanation":  "Chủ ngữ \u0027All students\u0027 là số nhiều và câu này là một thông báo chung ở thì hiện tại đơn, nên dùng to-be là \u0027are\u0027.",
+        "answer":  3,
+        "options":  [
+                        "had been",
+                        "was",
+                        "were",
+                        "are"
+                    ],
+        "question":  "Participants: All students (4) _____ welcome, regardless of experience level.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-6",
+        "question_reading":  "The Students’ Sports Club",
+        "explanation":  "Theo sau động từ liên kết \u0027stay\u0027 cần một tính từ. \u0027active\u0027 (năng động) là tính từ duy nhất và phù hợp nghĩa.",
+        "answer":  1,
+        "options":  [
+                        "acting",
+                        "active",
+                        "action",
+                        "actively"
+                    ],
+        "question":  "Let’s stay (5) _____  together!",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-7",
+        "question_reading":  "English Speaking Club",
+        "explanation":  "Sau động từ \u0027practice\u0027 cần một danh động từ (V-ing).",
+        "answer":  0,
+        "options":  [
+                        "speaking",
+                        "speak",
+                        "spoken",
+                        "to speak"
+                    ],
+        "question":  "Joining the club is a great way to practice (1) _____ with native speakers.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-8",
+        "question_reading":  "English Speaking Club",
+        "explanation":  "Cụm từ cố định: make presentations (thuyết trình).",
+        "answer":  0,
+        "options":  [
+                        "making",
+                        "taking",
+                        "bringing",
+                        "doing"
+                    ],
+        "question":  "* Activities: playing games and (2) _____ presentations.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-9",
+        "question_reading":  "English Speaking Club",
+        "explanation":  "Dùng giới từ \u0027at\u0027 trước một mốc thời gian giờ cụ thể (8:00 a.m).",
+        "answer":  1,
+        "options":  [
+                        "for",
+                        "at",
+                        "on",
+                        "in"
+                    ],
+        "question":  "* Time: every Saturday, (3) _____ 8:00 a.m.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-10",
+        "question_reading":  "English Speaking Club",
+        "explanation":  "Chủ ngữ \u0027All students\u0027 là số nhiều, đại từ quan hệ (who) được lược bỏ hoặc ngầm hiểu nên dùng to-be \u0027are\u0027.",
+        "answer":  0,
+        "options":  [
+                        "are",
+                        "be",
+                        "is",
+                        "am"
+                    ],
+        "question":  "* Participants: All students (4) _____ interested in English.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-11",
+        "question_reading":  "English Speaking Club",
+        "explanation":  "Cụm từ giao tiếp quen thuộc: see you there (hẹn gặp bạn ở đó).",
+        "answer":  2,
+        "options":  [
+                        "outside",
+                        "inside",
+                        "there",
+                        "here"
+                    ],
+        "question":  "We hope to see you (5) _____!",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-12",
+        "question_reading":  "School Library Notice",
+        "explanation":  "Cấu trúc từ... đến...: from [Time A] to [Time B].",
+        "answer":  0,
+        "options":  [
+                        "to",
+                        "and",
+                        "from",
+                        "with"
+                    ],
+        "question":  "The library will be closed for renovation from Monday (1) _____ Wednesday.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-13",
+        "question_reading":  "School Library Notice",
+        "explanation":  "Dựa vào ngữ cảnh cần trả sách \u0027trước\u0027 chiều thứ Sáu -\u003e \u0027before\u0027.",
+        "answer":  2,
+        "options":  [
+                        "while",
+                        "in",
+                        "before",
+                        "after"
+                    ],
+        "question":  "Please return all borrowed books (2) _____ Friday afternoon.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-14",
+        "question_reading":  "School Library Notice",
+        "explanation":  "Sau cấu trúc \u0027need to\u0027 cần một động từ nguyên thể (V-inf).",
+        "answer":  3,
+        "options":  [
+                        "to read",
+                        "reads",
+                        "reading",
+                        "read"
+                    ],
+        "question":  "If you need to (3) _____ books, visit the online library.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-15",
+        "question_reading":  "School Library Notice",
+        "explanation":  "Trạng từ chỉ sự đối lập \u0027However\u0027 (Tuy nhiên) đứng đầu câu, ngăn cách với mệnh đề chính bằng dấu phẩy.",
+        "answer":  0,
+        "options":  [
+                        "However",
+                        "Because",
+                        "Therefore",
+                        "Although"
+                    ],
+        "question":  "(4) _____, the study rooms will remain open.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-16",
+        "question_reading":  "School Library Notice",
+        "explanation":  "Cấu trúc cảm ơn vì điều gì: Thank you for + Noun/V-ing.",
+        "answer":  0,
+        "options":  [
+                        "for",
+                        "with",
+                        "of",
+                        "about"
+                    ],
+        "question":  "Thank you (5) _____ your cooperation!",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-17",
+        "question_reading":  "Summer Volunteer Campaign",
+        "explanation":  "Động từ \u0027join\u0027 mang trực tiếp tân ngữ (our summer campaign) mà không cần giới từ. (take part và participate cần \u0027in\u0027).",
+        "answer":  1,
+        "options":  [
+                        "take part",
+                        "join",
+                        "participate",
+                        "join in"
+                    ],
+        "question":  "We are looking for enthusiastic students to (1) _____ our summer campaign.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-18",
+        "question_reading":  "Summer Volunteer Campaign",
+        "explanation":  "Cấu trúc: the + tính từ (the elderly) dùng để chỉ một nhóm người (những người cao tuổi).",
+        "answer":  0,
+        "options":  [
+                        "the",
+                        "an",
+                        "a",
+                        "no article"
+                    ],
+        "question":  "* Activities: planting trees and helping (2) _____ elderly.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-19",
+        "question_reading":  "Summer Volunteer Campaign",
+        "explanation":  "Cụm danh từ cố định: a certificate of participation (giấy chứng nhận tham gia).",
+        "answer":  0,
+        "options":  [
+                        "certificate",
+                        "degree",
+                        "paper",
+                        "card"
+                    ],
+        "question":  "* Benefits: making friends and receiving a (3) _____ of participation.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-20",
+        "question_reading":  "Summer Volunteer Campaign",
+        "explanation":  "Giới từ \u0027on\u0027 dùng trước buổi của một ngày cụ thể trong tuần (on Sunday morning).",
+        "answer":  1,
+        "options":  [
+                        "for",
+                        "on",
+                        "in",
+                        "at"
+                    ],
+        "question":  "* Meeting point: the school gate (4) _____ Sunday morning.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-21",
+        "question_reading":  "Summer Volunteer Campaign",
+        "explanation":  "Sử dụng so sánh hơn để mang ý nghĩa tích cực: make our community a better place (một nơi tốt đẹp hơn).",
+        "answer":  1,
+        "options":  [
+                        "best",
+                        "better",
+                        "good",
+                        "well"
+                    ],
+        "question":  "Let\u0027s work together to make our community a (5) _____ place!",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-22",
+        "question_reading":  "Music Talent Show",
+        "explanation":  "Cụm từ cố định: musical instrument (nhạc cụ).",
+        "answer":  3,
+        "options":  [
+                        "machine",
+                        "tool",
+                        "device",
+                        "instrument"
+                    ],
+        "question":  "Are you good at singing or playing a musical (1) _____?",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-23",
+        "question_reading":  "Music Talent Show",
+        "explanation":  "Ngữ nghĩa phù hợp: receive a cash prize (nhận một giải thưởng tiền mặt).",
+        "answer":  3,
+        "options":  [
+                        "take",
+                        "give",
+                        "borrow",
+                        "receive"
+                    ],
+        "question":  "* Prizes: The winner will (2) _____ a cash prize.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-24",
+        "question_reading":  "Music Talent Show",
+        "explanation":  "Cụm từ: miss an opportunity (bỏ lỡ một cơ hội).",
+        "answer":  3,
+        "options":  [
+                        "drop",
+                        "lose",
+                        "fail",
+                        "miss"
+                    ],
+        "question":  "Don\u0027t (3) _____ this great opportunity.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-25",
+        "question_reading":  "Music Talent Show",
+        "explanation":  "Cụm từ cố định: the deadline for something (hạn chót cho việc gì).",
+        "answer":  0,
+        "options":  [
+                        "for",
+                        "to",
+                        "about",
+                        "of"
+                    ],
+        "question":  "The deadline (4) _____ registration is Monday.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-26",
+        "question_reading":  "Music Talent Show",
+        "explanation":  "Động từ mang nghĩa cổ vũ, ủng hộ tinh thần: support.",
+        "answer":  2,
+        "options":  [
+                        "supporting",
+                        "to support",
+                        "support",
+                        "supported"
+                    ],
+        "question":  "Bring your friends to (5) _____ you!",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-27",
+        "question_reading":  "Science Fair 2026",
+        "explanation":  "Sau mạo từ \u0027the\u0027 và trước giới từ \u0027of\u0027 cần danh từ (\u0027wonders\u0027: những điều kỳ diệu).",
+        "answer":  2,
+        "options":  [
+                        "wonder",
+                        "wonderfully",
+                        "wonders",
+                        "wonderful"
+                    ],
+        "question":  "Discover the (1) _____ of science.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-28",
+        "question_reading":  "Science Fair 2026",
+        "explanation":  "Cấu trúc song song, nối bởi \u0027and\u0027 với từ \u0027watching\u0027 phía trước nên cần V-ing. Cụm từ: take part in (tham gia vào).",
+        "answer":  2,
+        "options":  [
+                        "getting",
+                        "having",
+                        "taking",
+                        "making"
+                    ],
+        "question":  "* Activities: watching experiments and (2) _____ part in quizzes.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-29",
+        "question_reading":  "Science Fair 2026",
+        "explanation":  "Đại từ \u0027it\u0027 thay thế cho danh từ số ít \u0027a project\u0027 ở mệnh đề trước.",
+        "answer":  0,
+        "options":  [
+                        "it",
+                        "they",
+                        "them",
+                        "its"
+                    ],
+        "question":  "If you have a project, you can display (3) _____ at our exhibition.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-30",
+        "question_reading":  "Science Fair 2026",
+        "explanation":  "Thể bị động ở tương lai đơn: will be + V3/ed (sẽ được trao thưởng).",
+        "answer":  2,
+        "options":  [
+                        "will",
+                        "is",
+                        "will be",
+                        "be"
+                    ],
+        "question":  "The most creative project (4) _____ awarded a big prize.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-31",
+        "question_reading":  "Science Fair 2026",
+        "explanation":  "Câu mệnh lệnh khẳng định bắt đầu bằng một động từ nguyên thể (Be a scientist: Hãy trở thành nhà khoa học).",
+        "answer":  0,
+        "options":  [
+                        "Be",
+                        "Being",
+                        "To be",
+                        "Been"
+                    ],
+        "question":  "(5) _____ a scientist for a day!",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-32",
+        "question_reading":  "Earth Day Clean-up",
+        "explanation":  "Cấu trúc keep + O + adj (giữ cho môi trường sạch sẽ).",
+        "answer":  0,
+        "options":  [
+                        "clean",
+                        "cleaner",
+                        "cleanly",
+                        "cleaning"
+                    ],
+        "question":  "Let\u0027s celebrate Earth Day by keeping our environment (1) _____!",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-33",
+        "question_reading":  "Earth Day Clean-up",
+        "explanation":  "Liên từ \u0027and\u0027 dùng để nối phần tử cuối cùng trong một danh sách liệt kê.",
+        "answer":  2,
+        "options":  [
+                        "so",
+                        "but",
+                        "and",
+                        "or"
+                    ],
+        "question":  "* What to bring: gloves, trash bags, (2) _____ water.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-34",
+        "question_reading":  "Earth Day Clean-up",
+        "explanation":  "Cấu trúc cố định: be responsible for (chịu trách nhiệm cho khu vực nào đó).",
+        "answer":  1,
+        "options":  [
+                        "suitable",
+                        "responsible",
+                        "careful",
+                        "available"
+                    ],
+        "question":  "Each team will be (3) _____ for a specific area.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-35",
+        "question_reading":  "Earth Day Clean-up",
+        "explanation":  "Giới từ \u0027under\u0027 (dưới). Nghĩa: dưới bóng cây.",
+        "answer":  2,
+        "options":  [
+                        "inside",
+                        "on",
+                        "under",
+                        "above"
+                    ],
+        "question":  "After the work, we will have a picnic (4) _____ the trees.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-36",
+        "question_reading":  "Earth Day Clean-up",
+        "explanation":  "Thành ngữ tiếng Anh: \u0027Many hands make light work\u0027 (Nhiều người làm thì công việc nhẹ nhàng/Một cây làm chẳng nên non...).",
+        "answer":  1,
+        "options":  [
+                        "works",
+                        "work",
+                        "worker",
+                        "working"
+                    ],
+        "question":  "Please invite friends because many hands make light (5) _____.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-37",
+        "question_reading":  "School Trip to the Museum",
+        "explanation":  "Cấu trúc: learn about something (học, tìm hiểu về vấn đề gì).",
+        "answer":  1,
+        "options":  [
+                        "of",
+                        "about",
+                        "on",
+                        "for"
+                    ],
+        "question":  "* Purpose: to learn (1) _____ local history.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-38",
+        "question_reading":  "School Trip to the Museum",
+        "explanation":  "Cụm từ: school uniforms (đồng phục học sinh, dùng số nhiều vì chủ ngữ là students số nhiều).",
+        "answer":  1,
+        "options":  [
+                        "uniform",
+                        "uniforms",
+                        "clothing",
+                        "clothes"
+                    ],
+        "question":  "Students must wear their school (2) _____ during the trip.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-39",
+        "question_reading":  "School Trip to the Museum",
+        "explanation":  "Cụm danh từ: permission form (giấy/mẫu đơn xin phép).",
+        "answer":  1,
+        "options":  [
+                        "letter",
+                        "form",
+                        "paper",
+                        "note"
+                    ],
+        "question":  "Please ask your parents to sign the permission (3) _____ and return it.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-40",
+        "question_reading":  "School Trip to the Museum",
+        "explanation":  "Cụm động từ: write down (ghi chép lại).",
+        "answer":  1,
+        "options":  [
+                        "keep",
+                        "write",
+                        "put",
+                        "take"
+                    ],
+        "question":  "You should bring a notebook to (4) _____ down information.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-41",
+        "question_reading":  "School Trip to the Museum",
+        "explanation":  "Cần tính từ chỉ bản chất sự vật (chuyến đi). \u0027Exciting\u0027 (thú vị) phù hợp vì nó đứng sau mạo từ \u0027an\u0027.",
+        "answer":  3,
+        "options":  [
+                        "excite",
+                        "excited",
+                        "excitedly",
+                        "exciting"
+                    ],
+        "question":  "It will be an (5) _____ trip!",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-42",
+        "question_reading":  "Art Competition",
+        "explanation":  "Giới từ \u0027on\u0027 dùng cho bề mặt (on paper: vẽ trên giấy).",
+        "answer":  2,
+        "options":  [
+                        "with",
+                        "at",
+                        "on",
+                        "in"
+                    ],
+        "question":  "* Requirements: Your artwork must be drawn (1) _____ A3 paper.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-43",
+        "question_reading":  "Art Competition",
+        "explanation":  "Giới từ \u0027by\u0027 mang nghĩa là trước/chậm nhất là vào lúc (chỉ thời hạn/deadline).",
+        "answer":  3,
+        "options":  [
+                        "since",
+                        "to",
+                        "until",
+                        "by"
+                    ],
+        "question":  "* Submission: Submit to the Art Room (2) _____ October 15th.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-44",
+        "question_reading":  "Art Competition",
+        "explanation":  "Cấu trúc bị động: will be + V3/ed (sẽ được trưng bày).",
+        "answer":  0,
+        "options":  [
+                        "displayed",
+                        "display",
+                        "displaying",
+                        "displays"
+                    ],
+        "question":  "The best artworks will be (3) _____ on the notice board.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-45",
+        "question_reading":  "Art Competition",
+        "explanation":  "Cụm từ: painting tools (dụng cụ vẽ tranh).",
+        "answer":  0,
+        "options":  [
+                        "tools",
+                        "engines",
+                        "machines",
+                        "things"
+                    ],
+        "question":  "The first prize is a set of painting (4) _____.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-46",
+        "question_reading":  "Art Competition",
+        "explanation":  "Cụm từ giao tiếp quen thuộc: Good luck (Chúc may mắn).",
+        "answer":  1,
+        "options":  [
+                        "Better",
+                        "Good",
+                        "Best",
+                        "Great"
+                    ],
+        "question":  "(5) _____ luck to all participants!",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-47",
+        "question_reading":  "Book Exchange Fair",
+        "explanation":  "Cụm động từ: take something home (mang cái gì về nhà).",
+        "answer":  1,
+        "options":  [
+                        "keep",
+                        "take",
+                        "carry",
+                        "hold"
+                    ],
+        "question":  "* Rule: For every book you bring, you can (1) _____ another book home.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-48",
+        "question_reading":  "Book Exchange Fair",
+        "explanation":  "Từ \u0027please\u0027 (vui lòng) thường được thêm vào các quy định/ghi chú để diễn đạt lịch sự (Vui lòng không mang sách giáo khoa).",
+        "answer":  3,
+        "options":  [
+                        "welcome",
+                        "sorry",
+                        "thanks",
+                        "please"
+                    ],
+        "question":  "* Types: storybooks, comics (no textbooks, (2) _____).",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-49",
+        "question_reading":  "Book Exchange Fair",
+        "explanation":  "Sau giới từ \u0027without\u0027 cần một danh động từ V-ing (mà không tiêu tốn tiền).",
+        "answer":  3,
+        "options":  [
+                        "spent",
+                        "spend",
+                        "to spend",
+                        "spending"
+                    ],
+        "question":  "This is a great way to read without (3) _____ any money.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-50",
+        "question_reading":  "Book Exchange Fair",
+        "explanation":  "Từ vựng phù hợp ngữ cảnh: reusing paper (tái sử dụng giấy - để cứu lấy cây xanh).",
+        "answer":  3,
+        "options":  [
+                        "returning",
+                        "recycling",
+                        "reducing",
+                        "reusing"
+                    ],
+        "question":  "It also helps to save trees by (4) _____ paper.",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    },
+    {
+        "id":  "Part6-51",
+        "question_reading":  "Book Exchange Fair",
+        "explanation":  "Cụm từ: love for something (tình yêu dành cho cái gì).",
+        "answer":  1,
+        "options":  [
+                        "with",
+                        "for",
+                        "of",
+                        "to"
+                    ],
+        "question":  "Come and share your love (5) _____ reading!",
+        "instruction":  "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks."
+    }
+]

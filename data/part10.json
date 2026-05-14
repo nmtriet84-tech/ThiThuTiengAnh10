@@ -1,0 +1,506 @@
+﻿[
+    {
+        "id":  "Part10-2",
+        "question_reading":  "",
+        "explanation":  "Mệnh đề quan hệ mang nghĩa bị động trong quá khứ (was arrested). Động từ chính của câu chia ở hiện tại đơn (is my neighbor).",
+        "answer":  1,
+        "options":  [
+                        "The man who was arrested by the police yesterday was my neighbor.",
+                        "The man who was arrested by the police yesterday is my neighbor.",
+                        "The man who arrested by the police yesterday is my neighbor.",
+                        "The man whom was arrested by the police yesterday is my neighbor."
+                    ],
+        "question":  "The man / who / arrest / police / yesterday / be / my neighbor.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-3",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc since: Hiện tại hoàn thành (hoặc HTHT tiếp diễn) + since + Quá khứ đơn (since we arrived).",
+        "answer":  3,
+        "options":  [
+                        "It has rained heavily since we arrive here.",
+                        "It is raining heavily since we arrived here.",
+                        "It rained heavily since we arrive here.",
+                        "It has been raining heavily since we arrived here."
+                    ],
+        "question":  "It / rain / heavily / since / we / arrive / here.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-4",
+        "question_reading":  "",
+        "explanation":  "Có \u0027last year\u0027 -\u003e Tình huống trái với quá khứ nên phải dùng câu điều kiện loại 3 (If + S + had V3/ed, S + would have V3/ed).",
+        "answer":  1,
+        "options":  [
+                        "If he studied harder last year, he would pass the entrance exam.",
+                        "If he had studied harder last year, he would have passed the entrance exam.",
+                        "If he had studied harder last year, he would pass the entrance exam.",
+                        "If he studies harder last year, he will pass the entrance exam."
+                    ],
+        "question":  "If / he / study / harder / last year, / he / pass / entrance exam.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-5",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc: apologize to somebody for V-ing (xin lỗi ai vì việc gì). Cụm từ: be late for school (trễ học).",
+        "answer":  2,
+        "options":  [
+                        "She apologized to the teacher for to be late for school.",
+                        "She apologized to the teacher for be late for school.",
+                        "She apologized to the teacher for being late for school.",
+                        "She apologized the teacher for being late for school."
+                    ],
+        "question":  "She / apologize / teacher / for / be / late / school.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-6",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc: advise sb to do sth (khuyên ai làm gì) và stop V-ing (dừng hẳn việc đang làm).",
+        "answer":  0,
+        "options":  [
+                        "The doctor advised him to stop smoking immediately.",
+                        "The doctor advised him to stop to smoke immediately.",
+                        "The doctor advised him stop to smoke immediately.",
+                        "The doctor advised him stopping smoking immediately."
+                    ],
+        "question":  "The doctor / advise / him / stop / smoke / immediately.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-7",
+        "question_reading":  "",
+        "explanation":  "Thể truyền khiến (Causative form) bị động: have something done (have my car repaired). Có \u0027tomorrow\u0027 nên dùng thì tương lai.",
+        "answer":  2,
+        "options":  [
+                        "I will have my car repair by the mechanic tomorrow.",
+                        "I will have my car to be repaired by the mechanic tomorrow.",
+                        "I will have my car repaired by the mechanic tomorrow.",
+                        "I have my car repaired by the mechanic tomorrow."
+                    ],
+        "question":  "I / have / my car / repair / by / mechanic / tomorrow.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-8",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc: so + adj + that + mệnh đề (quá... đến nỗi mà). Động từ \u0027decide to V\u0027 phải lùi về quá khứ cho phù hợp với \u0027was\u0027.",
+        "answer":  1,
+        "options":  [
+                        "The weather was so bad that we decide to stay at home.",
+                        "The weather was so bad that we decided to stay at home.",
+                        "The weather is so bad that we decide stay at home.",
+                        "The weather is so bad that we decided to stay at home."
+                    ],
+        "question":  "The weather / be / so / bad / that / we / decide / stay / home.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-9",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc nhượng bộ: Despite + V-ing/Noun phrase. \u0027manage to V\u0027 (xoay xở làm được việc gì).",
+        "answer":  1,
+        "options":  [
+                        "Despite of being exhausted, she managed to finish the report.",
+                        "Despite being exhausted, she managed to finish the report.",
+                        "Despite she was exhausted, she managed to finish the report.",
+                        "Despite be exhausted, she managed to finish the report."
+                    ],
+        "question":  "Despite / be / exhausted, / she / manage / finish / report.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-10",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc so sánh kép (Càng... càng): The + so sánh hơn + S + V, The + so sánh hơn + S + V.",
+        "answer":  1,
+        "options":  [
+                        "The hard you practice, the good you will become.",
+                        "The harder you practice, the better you will become.",
+                        "The more hard you practice, the more good you become.",
+                        "The harder you practice, the best you will become."
+                    ],
+        "question":  "The / hard / you / practice, / the / good / you / become.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-11",
+        "question_reading":  "",
+        "explanation":  "Có \u0027last month\u0027 -\u003e Câu ước trái với quá khứ (S + wish + S + had + V3/ed).",
+        "answer":  2,
+        "options":  [
+                        "I wish I would not buy that expensive car last month.",
+                        "I wish I did not buy that expensive car last month.",
+                        "I wish I had not bought that expensive car last month.",
+                        "I wish I have not bought that expensive car last month."
+                    ],
+        "question":  "I / wish / I / not / buy / that / expensive / car / last / month.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-12",
+        "question_reading":  "",
+        "explanation":  "Đảo ngữ với \u0027Never before\u0027: Đưa trợ động từ lên trước chủ ngữ. \u0027before\u0027 đi kèm thì hiện tại hoàn thành (have I seen).",
+        "answer":  1,
+        "options":  [
+                        "Never before I saw such a beautiful sunset.",
+                        "Never before have I seen such a beautiful sunset.",
+                        "Never before I have seen such a beautiful sunset.",
+                        "Never before did I see such a beautiful sunset."
+                    ],
+        "question":  "Never / before / I / see / such / beautiful / sunset.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-13",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc used to + V (thói quen trong quá khứ). Vế sau có \u0027two years ago\u0027 nên động từ \u0027give\u0027 chia quá khứ là \u0027gave\u0027.",
+        "answer":  0,
+        "options":  [
+                        "My father used to smoke a lot, but he gave it up two years ago.",
+                        "My father used to smoke a lot, but he give it up two years ago.",
+                        "My father used to smoking a lot, but he gave it up two years ago.",
+                        "My father is used to smoking a lot, but he gave it up two years ago."
+                    ],
+        "question":  "My father / use / smoke / a lot, / but / he / give / up / two years / ago.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-14",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc khuyên bảo: suggest that + S + (should) + V(nguyên mẫu). Chú ý mạo từ \u0027the\u0027 trước \u0027environment\u0027.",
+        "answer":  1,
+        "options":  [
+                        "Our teacher suggested us to protect the environment.",
+                        "Our teacher suggested that we should protect the environment.",
+                        "Our teacher suggested that we to protect the environment.",
+                        "Our teacher suggested that we protecting the environment."
+                    ],
+        "question":  "Our teacher / suggest / we / should / protect / environment.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-15",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027By the time\u0027 trong quá khứ: By the time + quá khứ đơn, quá khứ hoàn thành (hành động rời đi xảy ra trước khi đến).",
+        "answer":  3,
+        "options":  [
+                        "By the time you had arrived at the party yesterday, everyone left.",
+                        "By the time you arrived at the party yesterday, everyone left.",
+                        "By the time you arrive at the party yesterday, everyone has left.",
+                        "By the time you arrived at the party yesterday, everyone had left."
+                    ],
+        "question":  "By the time / you / arrive / party / yesterday, / everyone / leave.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-16",
+        "question_reading":  "",
+        "explanation":  "Dấu hiệu \u0027for a long time\u0027 (trong một thời gian dài) yêu cầu sử dụng thì hiện tại hoàn thành (haven\u0027t met).",
+        "answer":  2,
+        "options":  [
+                        "They haven\u0027t met each other since a long time.",
+                        "They didn\u0027t meet each other for a long time.",
+                        "They haven\u0027t met each other for a long time.",
+                        "They hadn\u0027t meet each other for a long time."
+                    ],
+        "question":  "They / not / meet / each other / for / long / time.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-17",
+        "question_reading":  "",
+        "explanation":  "Câu bị động có 2 tân ngữ ở thì quá khứ đơn: S + was/were + given + to + somebody.",
+        "answer":  2,
+        "options":  [
+                        "A new laptop is given to him on his birthday.",
+                        "A new laptop was given him on his birthday.",
+                        "A new laptop was given to him on his birthday.",
+                        "A new laptop gave to him on his birthday."
+                    ],
+        "question":  "A / new / laptop / give / him / on / his / birthday.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-18",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc sở thích: prefer V-ing to V-ing (thích làm việc này hơn việc kia).",
+        "answer":  1,
+        "options":  [
+                        "She prefers read books to watch television.",
+                        "She prefers reading books to watching television.",
+                        "She prefers reading books than watching television.",
+                        "She prefers to read books to watch television."
+                    ],
+        "question":  "She / prefer / read / books / watch / television.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-19",
+        "question_reading":  "",
+        "explanation":  "Có \u0027every day\u0027 (hiện tại đơn). Cấu trúc: It takes + somebody + time + to V.",
+        "answer":  0,
+        "options":  [
+                        "It takes me two hours to commute to work every day.",
+                        "It took me two hours to commute to work every day.",
+                        "It takes me two hours commuting to work every day.",
+                        "It takes me two hours commute to work every day."
+                    ],
+        "question":  "It / take / me / two hours / commute / work / every day.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-20",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc: It is + adj + for somebody + to V (Thật cần thiết cho ai đó để làm gì).",
+        "answer":  1,
+        "options":  [
+                        "It is necessary of students to wear uniforms at school.",
+                        "It is necessary for students to wear uniforms at school.",
+                        "It is necessary for students wear uniforms at school.",
+                        "It is necessary that students wearing uniforms at school."
+                    ],
+        "question":  "It / be / necessary / students / wear / uniforms / school.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-21",
+        "question_reading":  "",
+        "explanation":  "Rút gọn mệnh đề quan hệ dạng chủ động bằng cách sử dụng Hiện tại phân từ (V-ing: standing).",
+        "answer":  2,
+        "options":  [
+                        "The girl stood next to the window is my sister.",
+                        "The girl who standing next to the window is my sister.",
+                        "The girl standing next to the window is my sister.",
+                        "The girl stands next to the window is my sister."
+                    ],
+        "question":  "The / girl / stand / next / the window / be / my sister.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-22",
+        "question_reading":  "",
+        "explanation":  "Câu điều kiện loại 2 (lời khuyên): If I were you, S + would + V. Động từ to-be chia là \u0027were\u0027 cho mọi ngôi.",
+        "answer":  0,
+        "options":  [
+                        "If I were you, I would not accept that job offer.",
+                        "If I was you, I will not accept that job offer.",
+                        "If I had been you, I would not accept that job offer.",
+                        "If I am you, I will not accept that job offer."
+                    ],
+        "question":  "If / I / be / you, / I / not / accept / that / job / offer.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-23",
+        "question_reading":  "",
+        "explanation":  "Hành động đang xảy ra trong quá khứ (Quá khứ tiếp diễn - were having) thì hành động khác xen vào (Quá khứ đơn - went out).",
+        "answer":  2,
+        "options":  [
+                        "While we had dinner, the power was going out.",
+                        "While we are having dinner, the power goes out.",
+                        "While we were having dinner, the power went out.",
+                        "While we have had dinner, the power went out."
+                    ],
+        "question":  "While / we / have / dinner, / the / power / go / out.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-24",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc bị động của \u0027need\u0027 với vật: S(vật) + need + V-ing (hoặc to be V3/ed). Chú ý \u0027needs\u0027 phải thêm \u0027s\u0027.",
+        "answer":  3,
+        "options":  [
+                        "Your room is dirty. It needs to clean right away.",
+                        "Your room is dirty. It need cleaning right away.",
+                        "Your room is dirty. It needs cleaned right away.",
+                        "Your room is dirty. It needs cleaning right away."
+                    ],
+        "question":  "Your / room / be / dirty. It / need / clean / right away.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-25",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc: make + somebody + adj (làm cho ai cảm thấy thế nào). Cảm xúc của con người dùng tính từ đuôi -ed (surprised).",
+        "answer":  2,
+        "options":  [
+                        "The news made everyone in the room surprising.",
+                        "The news made everyone in the room surprise.",
+                        "The news made everyone in the room surprised.",
+                        "The news made everyone in the room to surprise."
+                    ],
+        "question":  "The / news / make / everyone / in / room / surprise.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-26",
+        "question_reading":  "",
+        "explanation":  "Câu hỏi đuôi của cấu trúc rủ rê \u0027Let\u0027s + V\u0027 luôn luôn là \u0027shall we?\u0027.",
+        "answer":  1,
+        "options":  [
+                        "Let\u0027s go out for dinner tonight, do we?",
+                        "Let\u0027s go out for dinner tonight, shall we?",
+                        "Let\u0027s go out for dinner tonight, don\u0027t we?",
+                        "Let\u0027s go out for dinner tonight, will we?"
+                    ],
+        "question":  "Let\u0027s / go / out / for / dinner / tonight, / we?",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-27",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc phối hợp thì: Before + Quá khứ đơn (went), Quá khứ hoàn thành (had done).",
+        "answer":  1,
+        "options":  [
+                        "Before she goes to bed, she had done all her homework.",
+                        "Before she went to bed, she had done all her homework.",
+                        "Before she had gone to bed, she did all her homework.",
+                        "Before she went to bed, she did all her homework."
+                    ],
+        "question":  "Before / she / go / to / bed, / she / do / all / homework.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-28",
+        "question_reading":  "",
+        "explanation":  "Đảo ngữ với \u0027Only after\u0027: Only after + Mệnh đề 1 (có thể ở QKHT), Mệnh đề 2 (Đảo ngữ ở thì QKĐ: did + S + V).",
+        "answer":  1,
+        "options":  [
+                        "Only after had he apologized she forgave him.",
+                        "Only after he had apologized did she forgive him.",
+                        "Only after he apologized she forgave him.",
+                        "Only after he had apologized she did forgive him."
+                    ],
+        "question":  "Only / after / he / apologize, / she / forgive / him.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-29",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027would rather\u0027 với 2 chủ ngữ khác nhau diễn tả ý muốn ở hiện tại/tương lai: S1 + would rather + S2 + V(quá khứ đơn).",
+        "answer":  0,
+        "options":  [
+                        "I would rather you didn\u0027t tell anyone about this secret.",
+                        "I would rather you not tell anyone about this secret.",
+                        "I would rather you won\u0027t tell anyone about this secret.",
+                        "I would rather you hadn\u0027t tell anyone about this secret."
+                    ],
+        "question":  "I / would rather / you / not / tell / anyone / about / this / secret.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-30",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc: S + V + such + a/an + adj + Noun + that + mệnh đề. Chữ \u0027interesting\u0027 bắt đầu bằng nguyên âm nên dùng mạo từ \u0027an\u0027.",
+        "answer":  1,
+        "options":  [
+                        "It was such interesting a book that I read it twice.",
+                        "It was such an interesting book that I read it twice.",
+                        "It was such an interesting book that I read twice.",
+                        "It was so an interesting book that I read it twice."
+                    ],
+        "question":  "It / be / such / interesting / book / that / I / read / it / twice.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-31",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc tương hỗ \u0027not only... but also\u0027 đi với 2 động từ thì hiện tại đơn. Cần mạo từ \u0027the\u0027 trước nhạc cụ (the piano).",
+        "answer":  3,
+        "options":  [
+                        "He speaks not only English fluently but also play the piano well.",
+                        "He not only speaks English fluently but also plays piano well.",
+                        "He not only speak English fluently but also play the piano well.",
+                        "He not only speaks English fluently but also plays the piano well."
+                    ],
+        "question":  "He / not only / speak / English / fluently / but also / play / piano / well.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-32",
+        "question_reading":  "",
+        "explanation":  "Đảo ngữ: No sooner + had + S + V3/ed + than + S + V2/ed (Vừa mới... thì đã...).",
+        "answer":  3,
+        "options":  [
+                        "No sooner did he arrive home than the phone had rung.",
+                        "No sooner had he arrived home when the phone rang.",
+                        "No sooner he had arrived home than the phone rang.",
+                        "No sooner had he arrived home than the phone rang."
+                    ],
+        "question":  "No sooner / he / arrive / home / than / phone / ring.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-33",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc: have difficulty + (in) + V-ing (Gặp khó khăn trong việc làm gì).",
+        "answer":  1,
+        "options":  [
+                        "Many students have difficulties to learn phrasal verbs.",
+                        "Many students have difficulty learning phrasal verbs.",
+                        "Many students have difficult learning phrasal verbs.",
+                        "Many students have difficulty to learn phrasal verbs."
+                    ],
+        "question":  "Many / students / have / difficulty / learn / phrasal verbs.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-34",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc: look forward to + V-ing (Mong đợi, trông ngóng điều gì đó).",
+        "answer":  2,
+        "options":  [
+                        "We look forward to hear from you soon.",
+                        "We are looking forward hearing from you soon.",
+                        "We are looking forward to hearing from you soon.",
+                        "We look forward hearing from you soon."
+                    ],
+        "question":  "We / look / forward / hear / from / you / soon.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-35",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc: be used to + V-ing (Đã quen với việc gì ở hiện tại).",
+        "answer":  1,
+        "options":  [
+                        "After living in the UK for a year, I am used to drive on the left.",
+                        "After living in the UK for a year, I am used to driving on the left.",
+                        "After living in the UK for a year, I used to drive on the left.",
+                        "After live in the UK for a year, I am used to driving on the left."
+                    ],
+        "question":  "After / live / in / UK / for / a / year, / I / be / used / drive / on / the left.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-36",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc xin phép lịch sự: Would you mind if I + V(quá khứ đơn)?",
+        "answer":  2,
+        "options":  [
+                        "Would you mind if I borrow your dictionary?",
+                        "Would you mind me borrow your dictionary?",
+                        "Would you mind if I borrowed your dictionary?",
+                        "Would you mind if I borrowing your dictionary?"
+                    ],
+        "question":  "Would / you / mind / if / I / borrow / your / dictionary?",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    },
+    {
+        "id":  "Part10-37",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc: spend + time/money + V-ing. Chủ ngữ \u0027She\u0027 nên động từ \u0027spend\u0027 phải thêm \u0027s\u0027 (spends).",
+        "answer":  0,
+        "options":  [
+                        "She spends a lot of money buying clothes every month.",
+                        "She spend a lot of money buying clothes every month.",
+                        "She spends a lot of money to buy clothes every month.",
+                        "She spends a lot of money buy clothes every month."
+                    ],
+        "question":  "She / spend / a lot of / money / buy / clothes / every / month.",
+        "instruction":  "Use the words/ phrases provided to make meaningful sentences."
+    }
+]

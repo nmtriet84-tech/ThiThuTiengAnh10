@@ -1,0 +1,842 @@
+﻿[
+    {
+        "id":  "Part7-2",
+        "question_reading":  "A Visit to a Traditional Craft Village",
+        "explanation":  "Câu hỏi ý chính: Toàn bộ đoạn văn kể về chuyến đi ngoại khóa của lớp đến làng nghề gốm Bát Tràng.",
+        "answer":  0,
+        "options":  [
+                        "A school trip to a traditional craft village",
+                        "A history of Bat Trang village",
+                        "Buying souvenirs for mothers",
+                        "How to make a ceramic cup"
+                    ],
+        "question":  "What is the passage mainly about?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-3",
+        "question_reading":  "A Visit to a Traditional Craft Village",
+        "explanation":  "Từ \u0027fascinating\u0027 mang nghĩa là vô cùng hấp dẫn, thú vị, đồng nghĩa với \u0027interesting\u0027.",
+        "answer":  0,
+        "options":  [
+                        "interesting",
+                        "terrible",
+                        "tiring",
+                        "boring"
+                    ],
+        "question":  "The word \u0027fascinating\u0027 in paragraph 1 is CLOSEST in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-4",
+        "question_reading":  "A Visit to a Traditional Craft Village",
+        "explanation":  "Đại từ \u0027they\u0027 thay thế cho danh từ số nhiều chỉ người \u0027the artisans\u0027 (những người thợ thủ công) ở vế câu trước đó.",
+        "answer":  1,
+        "options":  [
+                        "the hands",
+                        "the artisans",
+                        "the products",
+                        "the vases"
+                    ],
+        "question":  "The word \u0027they\u0027 in paragraph 1 refers to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-5",
+        "question_reading":  "A Visit to a Traditional Craft Village",
+        "explanation":  "Từ \u0027traditional\u0027 (truyền thống, cổ truyền) trái nghĩa với \u0027modern\u0027 (hiện đại).",
+        "answer":  1,
+        "options":  [
+                        "historic",
+                        "modern",
+                        "ancient",
+                        "old"
+                    ],
+        "question":  "The word \u0027traditional\u0027 in paragraph 1 is OPPOSITE in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-6",
+        "question_reading":  "A Visit to a Traditional Craft Village",
+        "explanation":  "Đoạn văn viết \u0027although it was not perfect\u0027 (mặc dù nó không hoàn hảo), nên nói chiếc cốc hoàn hảo là SAI.",
+        "answer":  3,
+        "options":  [
+                        "The students traveled there by bus.",
+                        "The village is famous for ceramics.",
+                        "The writer bought a vase for his mother.",
+                        "The writer\u0027s cup was beautifully perfect."
+                    ],
+        "question":  "According to the passage, which of the following is NOT TRUE?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-7",
+        "question_reading":  "A Visit to a Traditional Craft Village",
+        "explanation":  "Chi tiết trong bài: \u0027I bought a lovely vase as a souvenir for my mother because she loves flowers\u0027.",
+        "answer":  3,
+        "options":  [
+                        "Because it was very cheap.",
+                        "Because he broke his mother\u0027s vase.",
+                        "Because the artisan gave it to him.",
+                        "Because his mother loves flowers."
+                    ],
+        "question":  "According to the passage, why did the writer buy a lovely vase?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-8",
+        "question_reading":  "Benefits of Reading Books",
+        "explanation":  "Đoạn văn liệt kê các lợi ích của việc đọc sách: mở rộng kiến thức, giảm căng thẳng, tăng vốn từ...",
+        "answer":  1,
+        "options":  [
+                        "The best time to read a book",
+                        "The wonderful benefits of reading books",
+                        "How to improve writing skills",
+                        "Why students prefer watching videos"
+                    ],
+        "question":  "What is the passage mainly about?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-9",
+        "question_reading":  "Benefits of Reading Books",
+        "explanation":  "Từ \u0027broaden\u0027 (mở rộng) đồng nghĩa với \u0027expand\u0027.",
+        "answer":  0,
+        "options":  [
+                        "expands",
+                        "stops",
+                        "forgets",
+                        "limits"
+                    ],
+        "question":  "The word \u0027broadens\u0027 in paragraph 1 is CLOSEST in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-10",
+        "question_reading":  "Benefits of Reading Books",
+        "explanation":  "Đại từ \u0027It\u0027 thay thế cho việc \u0027getting lost in a good story\u0027 (đọc một câu chuyện hay) giúp thư giãn tâm trí.",
+        "answer":  1,
+        "options":  [
+                        "Working",
+                        "Reading a good story",
+                        "A peaceful sleep",
+                        "Studying"
+                    ],
+        "question":  "The word \u0027It\u0027 in paragraph 1 refers to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-11",
+        "question_reading":  "Benefits of Reading Books",
+        "explanation":  "Từ \u0027reduce\u0027 (giảm bớt) trái nghĩa với \u0027increase\u0027 (làm tăng lên).",
+        "answer":  3,
+        "options":  [
+                        "prevent",
+                        "decrease",
+                        "remove",
+                        "increase"
+                    ],
+        "question":  "The word \u0027reduce\u0027 in paragraph 1 is OPPOSITE in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-12",
+        "question_reading":  "Benefits of Reading Books",
+        "explanation":  "Bài đọc nói \u0027reading requires active thinking\u0027 (đọc sách đòi hỏi suy nghĩ tích cực), nên nói đọc sách làm não ngừng suy nghĩ là SAI.",
+        "answer":  0,
+        "options":  [
+                        "Reading makes our brain stop thinking actively.",
+                        "Reading improves our vocabulary.",
+                        "Reading helps to reduce daily stress.",
+                        "We should read at least thirty minutes a day."
+                    ],
+        "question":  "According to the passage, which of the following is NOT TRUE?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-13",
+        "question_reading":  "Benefits of Reading Books",
+        "explanation":  "Chi tiết trong bài: \u0027It relaxes our mind and prepares us for a peaceful sleep\u0027.",
+        "answer":  0,
+        "options":  [
+                        "Because it relaxes our mind and makes us forget daily worries.",
+                        "Because we can watch videos at the same time.",
+                        "Because it teaches us scientific discoveries.",
+                        "Because it requires a lot of active thinking."
+                    ],
+        "question":  "According to the passage, why does reading help us before sleep?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-14",
+        "question_reading":  "A Memorable Camping Trip",
+        "explanation":  "Đoạn văn kể về trải nghiệm chuyến đi cắm trại của tác giả và bạn bè.",
+        "answer":  3,
+        "options":  [
+                        "How to set up a tent",
+                        "Singing around a campfire",
+                        "Wild animals in the forest",
+                        "A memorable camping trip in a national park"
+                    ],
+        "question":  "What is the passage mainly about?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-15",
+        "question_reading":  "A Memorable Camping Trip",
+        "explanation":  "Cụm từ \u0027set up a tent\u0027 (dựng lều) đồng nghĩa với \u0027put up a tent\u0027.",
+        "answer":  2,
+        "options":  [
+                        "leave",
+                        "destroy",
+                        "put up",
+                        "buy"
+                    ],
+        "question":  "The word \u0027set up\u0027 in paragraph 1 is CLOSEST in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-16",
+        "question_reading":  "A Memorable Camping Trip",
+        "explanation":  "Từ \u0027we\u0027 (chuyển thành \u0027they\u0027 trong câu hỏi) chỉ nhóm bạn của tác giả đi cắm trại.",
+        "answer":  2,
+        "options":  [
+                        "the bright stars",
+                        "the colorful birds",
+                        "the writer and his friends",
+                        "the wild monkeys"
+                    ],
+        "question":  "The word \u0027they\u0027 in paragraph 1 refers to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-17",
+        "question_reading":  "A Memorable Camping Trip",
+        "explanation":  "Từ \u0027memorable\u0027 (đáng nhớ) trái nghĩa với \u0027forgettable\u0027 (dễ quên, đáng quên).",
+        "answer":  0,
+        "options":  [
+                        "forgettable",
+                        "unforgettable",
+                        "wonderful",
+                        "interesting"
+                    ],
+        "question":  "The word \u0027memorable\u0027 in the passage\u0027s topic is OPPOSITE in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-18",
+        "question_reading":  "A Memorable Camping Trip",
+        "explanation":  "Bài đọc nói \u0027It took us nearly an hour\u0027, dựng lều mất gần 1 tiếng, nên nói dựng trong 5 phút là SAI.",
+        "answer":  2,
+        "options":  [
+                        "They roasted marshmallows around the campfire.",
+                        "They arrived at the national park early in the morning.",
+                        "They set up the tent perfectly in five minutes.",
+                        "They saw a wild monkey jumping in the forest."
+                    ],
+        "question":  "According to the passage, which of the following is NOT TRUE?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-19",
+        "question_reading":  "A Memorable Camping Trip",
+        "explanation":  "Chi tiết trong bài: \u0027We enjoyed the trip so much because it was a great chance to connect with nature and relax\u0027.",
+        "answer":  0,
+        "options":  [
+                        "Because it was a great chance to connect with nature and relax.",
+                        "Because they slept during the whole trip.",
+                        "Because they caught a wild monkey.",
+                        "Because they stayed in a luxury hotel."
+                    ],
+        "question":  "According to the passage, why did they enjoy the trip so much?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-20",
+        "question_reading":  "The Importance of Breakfast",
+        "explanation":  "Đoạn văn nhấn mạnh tầm quan trọng của bữa sáng đối với cơ thể và học tập.",
+        "answer":  3,
+        "options":  [
+                        "Why teenagers sleep late",
+                        "The negative effects of eating too much",
+                        "How to cook eggs and milk",
+                        "The importance and benefits of eating breakfast"
+                    ],
+        "question":  "What is the passage mainly about?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-21",
+        "question_reading":  "The Importance of Breakfast",
+        "explanation":  "Từ \u0027essential\u0027 (thiết yếu, cần thiết) đồng nghĩa với \u0027necessary\u0027.",
+        "answer":  3,
+        "options":  [
+                        "unimportant",
+                        "harmful",
+                        "useless",
+                        "necessary"
+                    ],
+        "question":  "The word \u0027essential\u0027 in paragraph 1 is CLOSEST in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-22",
+        "question_reading":  "The Importance of Breakfast",
+        "explanation":  "Đại từ \u0027their\u0027 trong đoạn thay thế cho danh từ \u0027teenagers\u0027 (thanh thiếu niên).",
+        "answer":  1,
+        "options":  [
+                        "the teachers\u0027",
+                        "the teenagers\u0027",
+                        "the vitamins\u0027",
+                        "the scientists\u0027"
+                    ],
+        "question":  "The word \u0027their\u0027 in paragraph 1 refers to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-23",
+        "question_reading":  "The Importance of Breakfast",
+        "explanation":  "Trong ngữ cảnh \u0027skip meals\u0027 (bỏ bữa), từ trái nghĩa của nó là \u0027eat\u0027 (ăn).",
+        "answer":  2,
+        "options":  [
+                        "miss",
+                        "forget",
+                        "eat",
+                        "leave"
+                    ],
+        "question":  "The word \u0027skip\u0027 in paragraph 1 is OPPOSITE in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-24",
+        "question_reading":  "The Importance of Breakfast",
+        "explanation":  "Bài đọc ghi ăn sáng đàng hoàng mới điểm cao, bỏ bữa (skipping) dẫn đến mệt mỏi, nên câu Option 1 là SAI so với bài.",
+        "answer":  2,
+        "options":  [
+                        "Breakfast provides energy to start a new day.",
+                        "Many teenagers skip breakfast because of lacking time.",
+                        "Skipping breakfast helps students get better grades.",
+                        "A simple breakfast can be prepared the night before."
+                    ],
+        "question":  "According to the passage, which of the following is NOT TRUE?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-25",
+        "question_reading":  "The Importance of Breakfast",
+        "explanation":  "Chi tiết trong bài: \u0027many teenagers often skip breakfast because they wake up late and do not have enough time before school\u0027.",
+        "answer":  1,
+        "options":  [
+                        "Because they do not like eating bread or eggs.",
+                        "Because they wake up late and do not have enough time.",
+                        "Because scientists advise them to do so.",
+                        "Because breakfast makes them tired."
+                    ],
+        "question":  "According to the passage, why do many teenagers skip breakfast?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-26",
+        "question_reading":  "My Favorite Hobby",
+        "explanation":  "Đoạn văn kể về sở thích làm vườn của tác giả.",
+        "answer":  2,
+        "options":  [
+                        "Dealing with insects in the garden",
+                        "The history of daisies",
+                        "The writer\u0027s favorite hobby of gardening",
+                        "How to buy safe vegetables in the market"
+                    ],
+        "question":  "What is the passage mainly about?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-27",
+        "question_reading":  "My Favorite Hobby",
+        "explanation":  "Từ \u0027rewarding\u0027 (bổ ích, thỏa mãn) đồng nghĩa với \u0027satisfying\u0027.",
+        "answer":  0,
+        "options":  [
+                        "satisfying",
+                        "disappointing",
+                        "boring",
+                        "terrible"
+                    ],
+        "question":  "The word \u0027rewarding\u0027 in paragraph 1 is CLOSEST in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-28",
+        "question_reading":  "My Favorite Hobby",
+        "explanation":  "Đại từ quan hệ \u0027which\u0027 (trong cấu trúc \u0027gardening... which requires\u0027) thay thế cho việc làm vườn (gardening).",
+        "answer":  2,
+        "options":  [
+                        "daisies",
+                        "vegetables",
+                        "gardening",
+                        "insects"
+                    ],
+        "question":  "The word \u0027which\u0027 in paragraph 1 refers to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-29",
+        "question_reading":  "My Favorite Hobby",
+        "explanation":  "Từ \u0027patient\u0027 (kiên nhẫn) trái nghĩa với \u0027impatient\u0027 (thiếu kiên nhẫn, nóng vội).",
+        "answer":  1,
+        "options":  [
+                        "careful",
+                        "impatient",
+                        "healthy",
+                        "calm"
+                    ],
+        "question":  "The word \u0027patient\u0027 in paragraph 1 is OPPOSITE in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-30",
+        "question_reading":  "My Favorite Hobby",
+        "explanation":  "Bài đọc ghi \u0027I love eating the fresh tomatoes and cucumbers\u0027, nên nói \u0027dislikes\u0027 (ghét) là SAI.",
+        "answer":  2,
+        "options":  [
+                        "Gardening requires physical effort.",
+                        "The writer grows organic vegetables behind the house.",
+                        "The writer dislikes eating tomatoes and cucumbers.",
+                        "The hobby started when the writer received a pot of daisies."
+                    ],
+        "question":  "According to the passage, which of the following is NOT TRUE?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-31",
+        "question_reading":  "My Favorite Hobby",
+        "explanation":  "Chi tiết trong bài: \u0027because they are much safer and tastier than those bought in the market\u0027.",
+        "answer":  0,
+        "options":  [
+                        "Because they are safer and tastier than those in the market.",
+                        "Because they look ugly.",
+                        "Because they grow faster than weeds.",
+                        "Because they are more expensive to sell."
+                    ],
+        "question":  "According to the passage, why does the writer prefer home-grown vegetables?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-32",
+        "question_reading":  "A School Volunteer Campaign",
+        "explanation":  "Đoạn văn mô tả chiến dịch tình nguyện dọn rác bãi biển của trường học.",
+        "answer":  2,
+        "options":  [
+                        "The dangers of marine life",
+                        "A school trip to an island",
+                        "A volunteer campaign to clean up a local beach",
+                        "How to catch fish using nets"
+                    ],
+        "question":  "What is the passage mainly about?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-33",
+        "question_reading":  "A School Volunteer Campaign",
+        "explanation":  "Từ \u0027gather\u0027 (tập trung, tụ tập) đồng nghĩa với \u0027assemble\u0027.",
+        "answer":  0,
+        "options":  [
+                        "assembled",
+                        "separated",
+                        "destroyed",
+                        "left"
+                    ],
+        "question":  "The word \u0027gathered\u0027 in paragraph 1 is CLOSEST in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-34",
+        "question_reading":  "A School Volunteer Campaign",
+        "explanation":  "Đại từ \u0027It\u0027 (trong \u0027It was shocking to see...\u0027) là chủ ngữ giả thay thế cho việc nhìn thấy lượng rác khổng lồ trên cát.",
+        "answer":  0,
+        "options":  [
+                        "Seeing how much trash was left on the sand",
+                        "Dividing into small groups",
+                        "Working for three hours",
+                        "Taking buses"
+                    ],
+        "question":  "The word \u0027It\u0027 in paragraph 1 refers to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-35",
+        "question_reading":  "A School Volunteer Campaign",
+        "explanation":  "Từ \u0027cleaner\u0027 (sạch hơn) trái nghĩa với \u0027dirtier\u0027 (bẩn hơn).",
+        "answer":  2,
+        "options":  [
+                        "safer",
+                        "brighter",
+                        "dirtier",
+                        "nicer"
+                    ],
+        "question":  "The word \u0027cleaner\u0027 in paragraph 1 is OPPOSITE in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-36",
+        "question_reading":  "A School Volunteer Campaign",
+        "explanation":  "Bài đọc ghi \u0027More than two hundred students and teachers participated\u0027, nên nói chỉ có 5 học sinh là SAI.",
+        "answer":  1,
+        "options":  [
+                        "They collected plastic bottles and food wrappers.",
+                        "Only five students participated in the campaign.",
+                        "The volunteers worked hard for three hours.",
+                        "The groups were given trash bags and gloves."
+                    ],
+        "question":  "According to the passage, which of the following is NOT TRUE?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-37",
+        "question_reading":  "A School Volunteer Campaign",
+        "explanation":  "Chi tiết trong bài: \u0027because we wanted to raise people\u0027s awareness of environmental protection\u0027.",
+        "answer":  2,
+        "options":  [
+                        "To find lost fishing nets.",
+                        "To have a swimming competition.",
+                        "To raise awareness of environmental protection.",
+                        "To sell plastic bottles for money."
+                    ],
+        "question":  "According to the passage, why did the school organize this campaign?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-38",
+        "question_reading":  "The Role of Smartphones",
+        "explanation":  "Đoạn văn nói về vai trò của điện thoại thông minh (lợi ích) và những tác hại nếu dùng quá nhiều.",
+        "answer":  3,
+        "options":  [
+                        "Why teenagers shouldn\u0027t talk to their families",
+                        "The history of modern mini-computers",
+                        "How to repair a broken smartphone",
+                        "The benefits and drawbacks of using smartphones"
+                    ],
+        "question":  "What is the passage mainly about?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-39",
+        "question_reading":  "The Role of Smartphones",
+        "explanation":  "Từ \u0027convenient\u0027 (tiện lợi) đồng nghĩa với \u0027handy\u0027.",
+        "answer":  3,
+        "options":  [
+                        "useless",
+                        "terrible",
+                        "difficult",
+                        "handy"
+                    ],
+        "question":  "The word \u0027convenient\u0027 in paragraph 1 is CLOSEST in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-40",
+        "question_reading":  "The Role of Smartphones",
+        "explanation":  "Đại từ \u0027which\u0027 thay thế cho cả mệnh đề phía trước \u0027spending hours staring at their screens\u0027 (việc dành hàng giờ nhìn vào màn hình).",
+        "answer":  2,
+        "options":  [
+                        "making phone calls",
+                        "reading news",
+                        "spending hours staring at screens",
+                        "staying connected"
+                    ],
+        "question":  "The word \u0027which\u0027 in paragraph 1 refers to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-41",
+        "question_reading":  "The Role of Smartphones",
+        "explanation":  "Từ \u0027connect\u0027 (kết nối) trái nghĩa với \u0027disconnect\u0027 (ngắt kết nối).",
+        "answer":  0,
+        "options":  [
+                        "disconnect",
+                        "join",
+                        "combine",
+                        "link"
+                    ],
+        "question":  "The word \u0027connect\u0027 in paragraph 1 is OPPOSITE in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-42",
+        "question_reading":  "The Role of Smartphones",
+        "explanation":  "Đoạn văn nêu rõ điện thoại thông minh có thể gây hại mắt, thiếu ngủ, nên nói nó không có tác động tiêu cực (no negative effects) là SAI.",
+        "answer":  3,
+        "options":  [
+                        "Staring at screens too much can harm eyesight.",
+                        "Smartphones can be used to access the Internet.",
+                        "It is important to limit our screen time.",
+                        "Smartphones have no negative effects on our health."
+                    ],
+        "question":  "According to the passage, which of the following is NOT TRUE?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-43",
+        "question_reading":  "The Role of Smartphones",
+        "explanation":  "Chi tiết trong bài: \u0027limit our screen time to maintain a healthy lifestyle\u0027 và tránh giảm \u0027face-to-face interactions\u0027.",
+        "answer":  2,
+        "options":  [
+                        "To avoid paying high internet bills.",
+                        "Because mini-computers are very heavy.",
+                        "To maintain a healthy lifestyle and face-to-face interactions.",
+                        "To save battery power for the next day."
+                    ],
+        "question":  "According to the passage, why should we limit our screen time?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-44",
+        "question_reading":  "Learning a Foreign Language",
+        "explanation":  "Đoạn văn nói về các lợi ích tuyệt vời của việc học ngoại ngữ, đặc biệt là tiếng Anh.",
+        "answer":  0,
+        "options":  [
+                        "The numerous benefits of learning a foreign language",
+                        "How to travel abroad cheaply",
+                        "Why international companies pay high salaries",
+                        "The history of the English language"
+                    ],
+        "question":  "What is the passage mainly about?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-45",
+        "question_reading":  "Learning a Foreign Language",
+        "explanation":  "Từ \u0027opportunities\u0027 (cơ hội) đồng nghĩa với \u0027chances\u0027.",
+        "answer":  1,
+        "options":  [
+                        "problems",
+                        "chances",
+                        "challenges",
+                        "failures"
+                    ],
+        "question":  "The word \u0027opportunities\u0027 in paragraph 1 is CLOSEST in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-46",
+        "question_reading":  "Learning a Foreign Language",
+        "explanation":  "Đại từ \u0027It\u0027 (trong câu \u0027It improves our memory\u0027) thay thế cho \u0027learning a new language\u0027 ở câu trước.",
+        "answer":  3,
+        "options":  [
+                        "The globalized world",
+                        "An international company",
+                        "A top university",
+                        "Learning a new language"
+                    ],
+        "question":  "The word \u0027It\u0027 in paragraph 1 refers to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-47",
+        "question_reading":  "Learning a Foreign Language",
+        "explanation":  "Từ \u0027confident\u0027 (tự tin) trái nghĩa với \u0027insecure\u0027 (thiếu tự tin, bất an).",
+        "answer":  3,
+        "options":  [
+                        "sure",
+                        "proud",
+                        "brave",
+                        "insecure"
+                    ],
+        "question":  "The word \u0027confident\u0027 in paragraph 1 is OPPOSITE in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-48",
+        "question_reading":  "Learning a Foreign Language",
+        "explanation":  "Bài đọc ghi \u0027mastering a foreign language can be difficult and takes a lot of time\u0027, nên nói việc học luôn nhanh và dễ là SAI.",
+        "answer":  0,
+        "options":  [
+                        "Learning a foreign language is always quick and easy.",
+                        "Studying a language improves memory.",
+                        "You can learn about customs and culture through language.",
+                        "English is required by many top universities."
+                    ],
+        "question":  "According to the passage, which of the following is NOT TRUE?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-49",
+        "question_reading":  "Learning a Foreign Language",
+        "explanation":  "Chi tiết trong bài: \u0027It improves our memory and enhances our problem-solving skills\u0027.",
+        "answer":  3,
+        "options":  [
+                        "Because you don\u0027t have to think actively.",
+                        "Because it requires a lot of money.",
+                        "Because it makes you sleep better at night.",
+                        "Because it improves memory and problem-solving skills."
+                    ],
+        "question":  "According to the passage, why is learning a foreign language good for the brain?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-50",
+        "question_reading":  "A School Trip to the Zoo",
+        "explanation":  "Đoạn văn kể lại chuyến đi thú vị của học sinh đến sở thú thành phố.",
+        "answer":  2,
+        "options":  [
+                        "A sunny day in the city center",
+                        "The importance of animal conservation",
+                        "An exciting school trip to the city zoo",
+                        "How to feed monkeys and crocodiles"
+                    ],
+        "question":  "What is the passage mainly about?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-51",
+        "question_reading":  "A School Trip to the Zoo",
+        "explanation":  "Từ \u0027huge\u0027 (rộng lớn, khổng lồ) đồng nghĩa với \u0027enormous\u0027.",
+        "answer":  2,
+        "options":  [
+                        "small",
+                        "narrow",
+                        "enormous",
+                        "tiny"
+                    ],
+        "question":  "The word \u0027huge\u0027 in paragraph 1 is CLOSEST in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-52",
+        "question_reading":  "A School Trip to the Zoo",
+        "explanation":  "Đại từ \u0027their\u0027 (trong \u0027their first time seeing...\u0027) chỉ sự sở hữu của những học sinh (\u0027the students\u0027).",
+        "answer":  0,
+        "options":  [
+                        "the students\u0027",
+                        "the guides\u0027",
+                        "the crocodiles\u0027",
+                        "the monkeys\u0027"
+                    ],
+        "question":  "The word \u0027their\u0027 in paragraph 1 refers to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-53",
+        "question_reading":  "A School Trip to the Zoo",
+        "explanation":  "Từ \u0027wild\u0027 (hoang dã) trái nghĩa với \u0027tame\u0027 (đã thuần chủng, hiền lành).",
+        "answer":  2,
+        "options":  [
+                        "dangerous",
+                        "crazy",
+                        "tame",
+                        "fierce"
+                    ],
+        "question":  "The word \u0027wild\u0027 in paragraph 1 is OPPOSITE in meaning to ______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-54",
+        "question_reading":  "A School Trip to the Zoo",
+        "explanation":  "Bài đọc ghi \u0027immediately attracted by the loud roars of the lions\u0027 (tiếng gầm lớn), nên nói sư tử đang ngủ yên tĩnh (sleeping quietly) là SAI.",
+        "answer":  3,
+        "options":  [
+                        "They saw tall giraffes eating leaves.",
+                        "The weather was sunny and pleasant.",
+                        "The students learned about animal conservation.",
+                        "The lions were sleeping quietly when they entered."
+                    ],
+        "question":  "According to the passage, which of the following is NOT TRUE?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-55",
+        "question_reading":  "A School Trip to the Zoo",
+        "explanation":  "Chi tiết trong bài: \u0027The students were very excited because it was their first time seeing these wild animals in real life\u0027.",
+        "answer":  0,
+        "options":  [
+                        "Because it was their first time seeing wild animals in real life.",
+                        "Because they could ride the giraffes.",
+                        "Because the zoo was closed.",
+                        "Because it started to rain heavily."
+                    ],
+        "question":  "According to the passage, why were the students very excited?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-56",
+        "question_reading":  "An Enjoyable Trip to the Countryside",
+        "explanation":  "Câu hỏi ý chính: Đoạn văn kể về một chuyến đi thú vị đến vùng nông thôn của tác giả (\u0027spending an enjoyable day in the countryside\u0027).",
+        "answer":  2,
+        "options":  [
+                        "The life in the countryside",
+                        "A very peaceful countryside",
+                        "An enjoyable trip to the countryside",
+                        "A beautiful forest in the countryside"
+                    ],
+        "question":  "What is the passage mainly about?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-57",
+        "question_reading":  "An Enjoyable Trip to the Countryside",
+        "explanation":  "Từ \u0027roaming\u0027 (đi lang thang, thong dong) gần nghĩa nhất với cụm từ \u0027walking around\u0027 (đi dạo quanh).",
+        "answer":  2,
+        "options":  [
+                        "sleeping in",
+                        "standing in",
+                        "walking around",
+                        "lying in"
+                    ],
+        "question":  "The word “roaming” in paragraph 1 is CLOSEST in meaning to ______ .",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-58",
+        "question_reading":  "An Enjoyable Trip to the Countryside",
+        "explanation":  "Đại từ \u0027it\u0027 trong câu \u0027we rented a boat and rode it\u0027 thay thế cho danh từ \u0027a boat\u0027 (chiếc thuyền) vừa được nhắc đến ngay trước đó.",
+        "answer":  2,
+        "options":  [
+                        "the river",
+                        "the view",
+                        "the boat",
+                        "the fish"
+                    ],
+        "question":  "The word “it” in paragraph 1 refers to _______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-59",
+        "question_reading":  "An Enjoyable Trip to the Countryside",
+        "explanation":  "Từ \u0027failed\u0027 (thất bại) trái nghĩa với từ \u0027succeeded\u0027 (thành công).",
+        "answer":  2,
+        "options":  [
+                        "enjoyed",
+                        "watched",
+                        "succeeded",
+                        "saw"
+                    ],
+        "question":  "The word “failed” in paragraph 1 is OPPOSITE in meaning to _______.",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-60",
+        "question_reading":  "An Enjoyable Trip to the Countryside",
+        "explanation":  "Bài đọc có chi tiết \u0027My brother and sister also went with me that day\u0027 (Anh và em gái tôi cũng đi cùng), do đó thông tin tác giả đi một mình (alone) là SAI.",
+        "answer":  3,
+        "options":  [
+                        "The writer could not count birds and animals in the forest.",
+                        "The writer went fishing on a boat and caught some big fish.",
+                        "The writer enjoyed a wonderful day in the countryside.",
+                        "The writer went on a trip to the countryside alone."
+                    ],
+        "question":  "According to the passage, which of the following is NOT TRUE?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    },
+    {
+        "id":  "Part7-61",
+        "question_reading":  "An Enjoyable Trip to the Countryside",
+        "explanation":  "Chi tiết được nêu rõ ở câu cuối cùng của đoạn văn: \u0027because it brought me close to a very peaceful and natural environment, away from the busy and noisy city life\u0027.",
+        "answer":  1,
+        "options":  [
+                        "Because the countryside was very far from where he lived.",
+                        "Because it brought him close to a peaceful, natural environment away from the busy city.",
+                        "Because he caught some small fish while fishing.",
+                        "Because he could count all the different kinds of birds and animals."
+                    ],
+        "question":  "According to the passage, why did the storyteller really enjoy the day out?",
+        "instruction":  "Read the following text and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions."
+    }
+]

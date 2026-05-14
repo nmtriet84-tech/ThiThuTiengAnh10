@@ -1,0 +1,142 @@
+﻿[
+    {
+        "id":  "Part4-2",
+        "question_reading":  "",
+        "explanation":  "Tường thuật câu hỏi Yes/No: thêm \u0027if/whether\u0027, lùi thì (\u0027will\u0027 -\u003e \u0027would\u0027, \u0027come\u0027 -\u003e \u0027came\u0027) và đổi đại từ (\u0027you\u0027 -\u003e \u0027I\u0027).",
+        "answer":  3,
+        "options":  [
+                        "Quang asked me if I will visit the Love Valley when I come to Da Lat.",
+                        "Quang asked me if he would visit the Love Valley when he came to Da Lat.",
+                        "Quang asked me if he will visit the Love Valley when he comes to Da Lat.",
+                        "Quang asked me if I would visit the Love Valley when I came to Da Lat."
+                    ],
+        "question":  "“Will you visit the Love Valley when you come to Da Lat?” Quang asked me.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the original sentence in the following question."
+    },
+    {
+        "id":  "Part4-3",
+        "question_reading":  "",
+        "explanation":  "Câu hỏi Wh- ở gián tiếp không đảo ngữ trợ động từ, lùi thì (hiện tại hoàn thành \u0026 quá khứ đơn -\u003e quá khứ hoàn thành) và đổi trạng thời gian (last night -\u003e the previous night).",
+        "answer":  2,
+        "options":  [
+                        "She asked him where he has been since he left the party the previous night.",
+                        "She asked him where he had been since he left the party last night.",
+                        "She asked him where he had been since he had left the party the previous night.",
+                        "She asked him where had he been since he left the party the night before."
+                    ],
+        "question":  "“Where have you been since you left the party last night?” she asked him.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the original sentence in the following question."
+    },
+    {
+        "id":  "Part4-4",
+        "question_reading":  "",
+        "explanation":  "Tường thuật câu hỏi chứa mệnh đề điều kiện loại 1: lùi thì (\u0027will\u0027 -\u003e \u0027would\u0027, \u0027have\u0027 -\u003e \u0027had\u0027), đổi \u0027this\u0027 -\u003e \u0027that\u0027, \u0027tomorrow\u0027 -\u003e \u0027the following day\u0027.",
+        "answer":  1,
+        "options":  [
+                        "The manager asked the employee if he will help her with this project if he has free time the next day.",
+                        "The manager asked the employee if he would help her with that project if he had free time the following day.",
+                        "The manager asked the employee whether he would help her with that project if he had free time tomorrow.",
+                        "The manager asked the employee if would he help her with that project if he had free time the following day."
+                    ],
+        "question":  "“Will you help me with this project if you have free time tomorrow?” the manager asked the employee.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the original sentence in the following question."
+    },
+    {
+        "id":  "Part4-5",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc đề nghị \u0027Why don\u0027t we + V\u0027 thường được tường thuật bằng \u0027suggest + V-ing\u0027, đồng thời cần đổi đại từ chỉ thị \u0027this\u0027 thành \u0027that\u0027.",
+        "answer":  0,
+        "options":  [
+                        "John suggested complaining to the company about that poor service.",
+                        "John asked why we don\u0027t complain to the company about that poor service.",
+                        "John suggested that they should complain to the company about this poor service.",
+                        "John advised us to complain to the company about that poor service."
+                    ],
+        "question":  "“Why don\u0027t we complain to the company about this poor service?” said John.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the original sentence in the following question."
+    },
+    {
+        "id":  "Part4-6",
+        "question_reading":  "",
+        "explanation":  "Lùi thì quá khứ tiếp diễn thành quá khứ hoàn thành tiếp diễn, quá khứ đơn thành quá khứ hoàn thành, và đổi \u0027yesterday\u0027 thành \u0027the day before\u0027.",
+        "answer":  2,
+        "options":  [
+                        "The police officer asked the man if he was driving his car when the accident happened the day before.",
+                        "The police officer asked the man if he had been driving his car when the accident happened yesterday.",
+                        "The police officer asked the man if he had been driving his car when the accident had happened the day before.",
+                        "The police officer asked the man whether had he been driving his car when the accident happened the previous day."
+                    ],
+        "question":  "“Were you driving your car when the accident happened yesterday?” the police officer asked the man.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the original sentence in the following question."
+    },
+    {
+        "id":  "Part4-7",
+        "question_reading":  "",
+        "explanation":  "Tường thuật câu hỏi đuôi xử lý tương tự như câu hỏi Yes/No bình thường, cần lùi thì (hiện tại hoàn thành -\u003e quá khứ hoàn thành) và bỏ hẳn phần câu hỏi đuôi.",
+        "answer":  1,
+        "options":  [
+                        "The teacher asked me whether I hadn\u0027t finished the assignment yet, hadn\u0027t I.",
+                        "The teacher asked me if I had finished the assignment yet.",
+                        "The teacher asked me if I haven\u0027t finished the assignment yet.",
+                        "The teacher asked me that I hadn\u0027t finished the assignment yet."
+                    ],
+        "question":  "“You haven\u0027t finished the assignment yet, have you?” the teacher asked me.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the original sentence in the following question."
+    },
+    {
+        "id":  "Part4-8",
+        "question_reading":  "",
+        "explanation":  "Khi tường thuật câu hỏi có \u0027must\u0027 mang nghĩa bắt buộc, ta chuyển \u0027must\u0027 thành \u0027had to\u0027, nhớ đổi \u0027this\u0027 thành \u0027that\u0027 và đưa về trật tự câu khẳng định.",
+        "answer":  1,
+        "options":  [
+                        "The accountant asked the director whether he had to submit this financial report by Friday.",
+                        "The accountant asked the director if he had to submit that financial report by Friday.",
+                        "The accountant asked the director if he must submit this financial report by Friday.",
+                        "The accountant asked the director if must he submit that financial report by Friday."
+                    ],
+        "question":  "“Must I submit this financial report by Friday?” the accountant asked the director.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the original sentence in the following question."
+    },
+    {
+        "id":  "Part4-9",
+        "question_reading":  "",
+        "explanation":  "Tường thuật 2 câu hỏi liên tiếp có thể nối bằng \u0027and\u0027, đảm bảo lùi thì, đổi đại từ tân ngữ (\u0027us\u0027 -\u003e \u0027them\u0027) và trả về trật tự câu khẳng định không đảo ngữ.",
+        "answer":  3,
+        "options":  [
+                        "She asked her friend who was that man and why was he looking at them.",
+                        "She asked her friend who that man is and why he is looking at them.",
+                        "She asked her friend who that man was and why he was looking at us.",
+                        "She asked her friend who that man was and why he was looking at them."
+                    ],
+        "question":  "“Who is that man? Why is he looking at us?” she asked her friend.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the original sentence in the following question."
+    },
+    {
+        "id":  "Part4-10",
+        "question_reading":  "",
+        "explanation":  "Động từ khiếm khuyết trong cấu trúc \u0027should have + V3/ed\u0027 (chỉ sự nuối tiếc/phân vân trong quá khứ) được giữ nguyên dạng khi chuyển sang câu gián tiếp.",
+        "answer":  0,
+        "options":  [
+                        "He wondered whether he should have told her the truth about the accident.",
+                        "He asked himself whether should he have told her the truth about the accident.",
+                        "He wondered if he had to tell her the truth about the accident.",
+                        "He wondered if he should tell her the truth about the accident."
+                    ],
+        "question":  "“Should I have told her the truth about the accident?” he asked himself.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the original sentence in the following question."
+    },
+    {
+        "id":  "Part4-11",
+        "question_reading":  "",
+        "explanation":  "Cần lùi thì cả hai mệnh đề (quá khứ đơn -\u003e quá khứ hoàn thành), đổi \u0027two days ago\u0027 -\u003e \u0027two days before\u0027, và biến đổi chính xác các đại từ (you -\u003e she, I -\u003e he).",
+        "answer":  3,
+        "options":  [
+                        "The boss asked his secretary whether she had seen the latest email he had sent her two days ago.",
+                        "The boss asked his secretary if had she seen the latest email he had sent her two days before.",
+                        "The boss asked his secretary if she saw the latest email he sent her two days before.",
+                        "The boss asked his secretary if she had seen the latest email he had sent her two days before."
+                    ],
+        "question":  "“Did you see the latest email I sent you two days ago?” the boss asked his secretary.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the original sentence in the following question."
+    }
+]

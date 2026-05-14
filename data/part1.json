@@ -1,0 +1,842 @@
+﻿[
+    {
+        "id":  "Part1-2",
+        "question_reading":  "",
+        "explanation":  "Từ vựng: Thư viện \"cung cấp\" không gian học tập.",
+        "answer":  2,
+        "options":  [
+                        "presents",
+                        "gives",
+                        "provides",
+                        "sends"
+                    ],
+        "question":  "The library ______ quiet study spaces for students to read books.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-3",
+        "question_reading":  "",
+        "explanation":  "Giới từ \"on\" được dùng cho các thứ trong tuần và buổi của một ngày cụ thể, ví dụ \"Monday morning\".",
+        "answer":  3,
+        "options":  [
+                        "in",
+                        "for",
+                        "at",
+                        "on"
+                    ],
+        "question":  "My teacher told us we would have a meeting ______ Monday morning.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-4",
+        "question_reading":  "",
+        "explanation":  "Thì quá khứ tiếp diễn diễn tả một hành động đang xảy ra trong quá khứ (\"was doing\") thì có một hành động khác xen vào (\"rang\").",
+        "answer":  0,
+        "options":  [
+                        "was doing",
+                        "did",
+                        "are doing",
+                        "do"
+                    ],
+        "question":  "When the phone rang, I ______ my homework.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-5",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc so sánh hơn đối với tính từ dài \"difficult\" đi kèm với \"than\".",
+        "answer":  3,
+        "options":  [
+                        "the most difficult",
+                        "as difficult",
+                        "difficult",
+                        "more difficult"
+                    ],
+        "question":  "The math exercises in the new textbook are ______ than those in the old one.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-6",
+        "question_reading":  "",
+        "explanation":  "Câu điều kiện loại 1: Mệnh đề \"If\" sử dụng thì hiện tại đơn, chủ ngữ \"you\" đi với động từ nguyên mẫu.",
+        "answer":  3,
+        "options":  [
+                        "will stay",
+                        "stays",
+                        "can stay",
+                        "stay"
+                    ],
+        "question":  "If you ______ in the sun for a long time, you will have a sunburn.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-7",
+        "question_reading":  "",
+        "explanation":  "Đại từ quan hệ \"who\" chỉ người, làm chủ ngữ thay thế cho \"the person\" ngay phía trước.",
+        "answer":  2,
+        "options":  [
+                        "whom",
+                        "which",
+                        "who",
+                        "whose"
+                    ],
+        "question":  "My father is the person ______ loves my family most.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-8",
+        "question_reading":  "",
+        "explanation":  "Cụm động từ \"turn off\" mang nghĩa là tắt các thiết bị như đèn và quạt.",
+        "answer":  0,
+        "options":  [
+                        "turn off",
+                        "go out",
+                        "act out",
+                        "get off"
+                    ],
+        "question":  "Before leaving the hall, please ______ all the lights and fans.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-9",
+        "question_reading":  "",
+        "explanation":  "Từ vựng: \"Protect\" mang nghĩa là bảo vệ rừng và môi trường.",
+        "answer":  0,
+        "options":  [
+                        "protect",
+                        "reduce",
+                        "wash",
+                        "prevent"
+                    ],
+        "question":  "Everyone should ______ forests and environment.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-10",
+        "question_reading":  "",
+        "explanation":  "Liên từ \"although\" diễn tả sự nhượng bộ, mang nghĩa \"mặc dù\": Họ vẫn tiếp tục chơi mặc dù trời bắt đầu mưa.",
+        "answer":  2,
+        "options":  [
+                        "so",
+                        "however",
+                        "although",
+                        "because"
+                    ],
+        "question":  "They continued playing ______ it started to rain.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-11",
+        "question_reading":  "",
+        "explanation":  "Thì quá khứ hoàn thành (\u0027had left\u0027) diễn tả hành động xảy ra trước một thời điểm hoặc hành động khác trong quá khứ.",
+        "answer":  0,
+        "options":  [
+                        "had left",
+                        "was leaving",
+                        "has left",
+                        "left"
+                    ],
+        "question":  "By the time we arrived at the station, the train ______.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-12",
+        "question_reading":  "",
+        "explanation":  "Câu điều kiện loại 2 dùng để đưa ra lời khuyên, động từ to-be luôn dùng \u0027were\u0027 cho mọi ngôi.",
+        "answer":  2,
+        "options":  [
+                        "am",
+                        "was",
+                        "were",
+                        "have been"
+                    ],
+        "question":  "If I ______ you, I would study harder for the final exam.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-13",
+        "question_reading":  "",
+        "explanation":  "Đại từ quan hệ \u0027whose\u0027 được dùng để chỉ sự sở hữu (chiếc xe của người đàn ông).",
+        "answer":  0,
+        "options":  [
+                        "whose",
+                        "that",
+                        "who",
+                        "whom"
+                    ],
+        "question":  "The man ______ car was stolen yesterday reported it to the police.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-14",
+        "question_reading":  "",
+        "explanation":  "Cụm động từ \u0027put off\u0027 mang nghĩa là trì hoãn (hoãn lại).",
+        "answer":  1,
+        "options":  [
+                        "take after",
+                        "put off",
+                        "turn off",
+                        "go over"
+                    ],
+        "question":  "They decided to ______ the meeting until next week due to the severe storm.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-15",
+        "question_reading":  "",
+        "explanation":  "Giới từ \u0027Despite\u0027 + cụm danh từ mang nghĩa nhượng bộ (Mặc dù).",
+        "answer":  2,
+        "options":  [
+                        "Although",
+                        "Because of",
+                        "Despite",
+                        "Since"
+                    ],
+        "question":  "______ the heavy rain, they still went hiking in the mountains.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-16",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027look forward to\u0027 + V-ing mang nghĩa là mong đợi, háo hức làm điều gì đó.",
+        "answer":  3,
+        "options":  [
+                        "visit",
+                        "visiting",
+                        "to visit",
+                        "to visiting"
+                    ],
+        "question":  "She is really looking forward ______ her grandparents this weekend.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-17",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc so sánh kép \u0027The + so sánh hơn..., the + so sánh hơn...\u0027 (Càng... càng...).",
+        "answer":  3,
+        "options":  [
+                        "better",
+                        "the best",
+                        "good",
+                        "the better"
+                    ],
+        "question":  "The harder you practice, ______ you will perform on the stage.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-18",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027be used to + V-ing\u0027 diễn tả việc quen với một hành động nào đó.",
+        "answer":  3,
+        "options":  [
+                        "getting",
+                        "get",
+                        "to get",
+                        "to getting"
+                    ],
+        "question":  "I am not used ______ up so early in the cold morning.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-19",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc bàng thái cách (Subjunctive) với \u0027recommend that + S + V-nguyên mẫu\u0027.",
+        "answer":  0,
+        "options":  [
+                        "see",
+                        "sees",
+                        "saw",
+                        "seeing"
+                    ],
+        "question":  "It is highly recommended that she ______ a doctor immediately.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-20",
+        "question_reading":  "",
+        "explanation":  "Dùng \u0027much\u0027 (hoặc far, a lot) trước cấu trúc so sánh hơn để nhấn mạnh mức độ.",
+        "answer":  1,
+        "options":  [
+                        "too",
+                        "much",
+                        "so",
+                        "many"
+                    ],
+        "question":  "The new software is ______ more complicated than the old version.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-21",
+        "question_reading":  "",
+        "explanation":  "Trong câu tường thuật, lùi thì từ quá khứ đơn (last night) sang quá khứ hoàn thành.",
+        "answer":  1,
+        "options":  [
+                        "am",
+                        "had been",
+                        "was",
+                        "have been"
+                    ],
+        "question":  "She asked me where I ______ the previous night.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-22",
+        "question_reading":  "",
+        "explanation":  "Liên từ \u0027Because\u0027 chỉ nguyên nhân (Bởi vì học cả đêm nên anh ấy mới ngủ gật).",
+        "answer":  1,
+        "options":  [
+                        "Despite",
+                        "Because",
+                        "Therefore",
+                        "However"
+                    ],
+        "question":  "______ he had studied all night, he fell asleep during the math test.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-23",
+        "question_reading":  "",
+        "explanation":  "Động từ \u0027avoid\u0027 (tránh) luôn đi kèm với V-ing.",
+        "answer":  3,
+        "options":  [
+                        "made",
+                        "to make",
+                        "make",
+                        "making"
+                    ],
+        "question":  "He usually avoids ______ eye contact when he is nervous talking to strangers.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-24",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc đảo ngữ với \u0027Rarely\u0027 đứng đầu câu, cần đảo trợ động từ hoặc to-be lên trước chủ ngữ.",
+        "answer":  1,
+        "options":  [
+                        "she was",
+                        "is she",
+                        "was she",
+                        "she is"
+                    ],
+        "question":  "Rarely ______ late for work since she was promoted.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-25",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc khuyên bảo \u0027had better + V-nguyên mẫu\u0027 (tốt hơn hết là nên làm gì).",
+        "answer":  2,
+        "options":  [
+                        "taking",
+                        "to take",
+                        "take",
+                        "taken"
+                    ],
+        "question":  "You had better ______ an umbrella because it looks like it\u0027s going to rain.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-26",
+        "question_reading":  "",
+        "explanation":  "Câu bị động với động từ khiếm khuyết: \u0027modal verb + be + V3/ed\u0027.",
+        "answer":  3,
+        "options":  [
+                        "finish",
+                        "finished",
+                        "be finishing",
+                        "be finished"
+                    ],
+        "question":  "The final project must ______ by the end of this month.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-27",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027apologize for + V-ing\u0027 mang nghĩa xin lỗi vì đã làm gì.",
+        "answer":  3,
+        "options":  [
+                        "in",
+                        "at",
+                        "about",
+                        "for"
+                    ],
+        "question":  "He formally apologized ______ arriving late to the international conference.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-28",
+        "question_reading":  "",
+        "explanation":  "Đảo ngữ với \u0027Not only... but also\u0027, mệnh đề đầu tiên mượn trợ động từ đảo lên trước chủ ngữ.",
+        "answer":  2,
+        "options":  [
+                        "do she sing",
+                        "she sings",
+                        "does she sing",
+                        "sings she"
+                    ],
+        "question":  "Not only ______ beautifully, but she also plays the piano very well.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-29",
+        "question_reading":  "",
+        "explanation":  "Tính từ \u0027interested\u0027 đi kèm với giới từ \u0027in\u0027 (thích thú, quan tâm).",
+        "answer":  2,
+        "options":  [
+                        "at",
+                        "with",
+                        "in",
+                        "on"
+                    ],
+        "question":  "My brother is strictly interested ______ learning multiple foreign languages.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-30",
+        "question_reading":  "",
+        "explanation":  "Trạng từ quan hệ \u0027where\u0027 thay thế cho nơi chốn (tương đương in which).",
+        "answer":  3,
+        "options":  [
+                        "which",
+                        "when",
+                        "that",
+                        "where"
+                    ],
+        "question":  "The house ______ we lived for ten years has just been sold.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-31",
+        "question_reading":  "",
+        "explanation":  "Câu điều kiện loại 3 diễn tả sự việc trái ngược với quá khứ (If + quá khứ hoàn thành, S + would have + V3/ed).",
+        "answer":  3,
+        "options":  [
+                        "would catch",
+                        "caught",
+                        "will catch",
+                        "would have caught"
+                    ],
+        "question":  "If they had departed earlier, they ______ the morning flight.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-32",
+        "question_reading":  "",
+        "explanation":  "Câu hỏi gián tiếp: trật tự từ sau từ để hỏi (\u0027where\u0027) trở về dạng chủ ngữ + động từ bình thường.",
+        "answer":  3,
+        "options":  [
+                        "is where the station",
+                        "the station where is",
+                        "where is the station",
+                        "where the station is"
+                    ],
+        "question":  "Could you tell me ______?",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-33",
+        "question_reading":  "",
+        "explanation":  "Câu hỏi đuôi của câu rủ rê bắt đầu bằng \u0027Let\u0027s\u0027 luôn là \u0027shall we\u0027.",
+        "answer":  2,
+        "options":  [
+                        "will you",
+                        "don\u0027t we",
+                        "shall we",
+                        "do we"
+                    ],
+        "question":  "Let\u0027s go to the new cinema downtown tonight, ______?",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-34",
+        "question_reading":  "",
+        "explanation":  "Động từ \u0027suggest + V-ing\u0027 dùng để đưa ra một đề xuất cùng làm gì.",
+        "answer":  1,
+        "options":  [
+                        "to travel",
+                        "traveling",
+                        "traveled",
+                        "travel"
+                    ],
+        "question":  "She suggested ______ by train to reduce carbon emissions.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-35",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc bị động nhờ vả: \u0027have something + V3/ed\u0027 (nhờ ai đó làm gì cho mình).",
+        "answer":  2,
+        "options":  [
+                        "to repair",
+                        "repairing",
+                        "repaired",
+                        "repair"
+                    ],
+        "question":  "We will have our car ______ tomorrow before starting our road trip.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-36",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027as if\u0027 diễn tả một giả định không có thật, luôn dùng \u0027were\u0027 thay cho \u0027was\u0027.",
+        "answer":  1,
+        "options":  [
+                        "has been",
+                        "were",
+                        "is",
+                        "will be"
+                    ],
+        "question":  "He acts as if he ______ the director of the entire company.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-37",
+        "question_reading":  "",
+        "explanation":  "Tính từ \u0027growing\u0027 ở dạng hiện tại phân từ mang nghĩa \u0027đang gia tăng\u0027 để bổ nghĩa cho \u0027demand\u0027.",
+        "answer":  2,
+        "options":  [
+                        "grows",
+                        "grown",
+                        "growing",
+                        "grow"
+                    ],
+        "question":  "There is a ______ demand for organic and healthy food nowadays.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-38",
+        "question_reading":  "",
+        "explanation":  "Rút gọn mệnh đề quan hệ sau the first/ the second/ the last... bằng \u0027to-V\u0027.",
+        "answer":  3,
+        "options":  [
+                        "leaves",
+                        "leaving",
+                        "left",
+                        "to leave"
+                    ],
+        "question":  "Mary was the last person ______ the classroom yesterday afternoon.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-39",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027It is no use + V-ing\u0027 có nghĩa là \u0027thật vô ích khi làm gì đó\u0027.",
+        "answer":  0,
+        "options":  [
+                        "trying",
+                        "tried",
+                        "to try",
+                        "try"
+                    ],
+        "question":  "It’s no use ______ to persuade him; he has already made up his mind.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-40",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027accuse someone of something / V-ing\u0027 (buộc tội ai về việc gì).",
+        "answer":  0,
+        "options":  [
+                        "of",
+                        "about",
+                        "on",
+                        "for"
+                    ],
+        "question":  "The manager accused the accountant ______ leaking confidential information.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-41",
+        "question_reading":  "",
+        "explanation":  "Dấu hiệu \u0027By this time + thời gian ở tương lai\u0027 dùng cho thì Tương lai hoàn thành.",
+        "answer":  0,
+        "options":  [
+                        "will have finished",
+                        "will finish",
+                        "have finished",
+                        "finish"
+                    ],
+        "question":  "By this time next year, I ______ my master\u0027s degree in economics.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-42",
+        "question_reading":  "",
+        "explanation":  "Động từ \u0027remember + to-V\u0027 diễn tả việc \u0027nhớ phải làm gì\u0027 (chưa xảy ra).",
+        "answer":  1,
+        "options":  [
+                        "locked",
+                        "to lock",
+                        "locking",
+                        "lock"
+                    ],
+        "question":  "Please remember ______ the front door when you leave the house.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-43",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc so sánh kép với tính từ ngắn (the + short-adj-er + S + V).",
+        "answer":  2,
+        "options":  [
+                        "the richest",
+                        "richer",
+                        "the richer",
+                        "rich"
+                    ],
+        "question":  "The more books you read, ______ your vocabulary becomes.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-44",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc đảo ngữ \u0027Scarcely/Hardly + had + S + V3/ed + when + S + V2/ed\u0027 (Vừa mới... thì).",
+        "answer":  3,
+        "options":  [
+                        "then",
+                        "than",
+                        "before",
+                        "when"
+                    ],
+        "question":  "Scarcely had I stepped out of the house ______ it started pouring.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-45",
+        "question_reading":  "",
+        "explanation":  "Động từ \u0027compliment someone on something\u0027 (khen ngợi ai về điều gì).",
+        "answer":  1,
+        "options":  [
+                        "for",
+                        "on",
+                        "about",
+                        "with"
+                    ],
+        "question":  "The teacher complimented her ______ her excellent presentation skills.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-46",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027In spite of + V-ing\u0027 dùng để chỉ sự nhượng bộ (Mặc dù).",
+        "answer":  1,
+        "options":  [
+                        "Even though",
+                        "In spite of",
+                        "Although",
+                        "Because"
+                    ],
+        "question":  "______ having a lot of money, he is not truly happy with his life.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-47",
+        "question_reading":  "",
+        "explanation":  "Cụm động từ \u0027cut down on\u0027 mang ý nghĩa là cắt giảm, làm giảm bớt.",
+        "answer":  3,
+        "options":  [
+                        "off",
+                        "out",
+                        "back",
+                        "down"
+                    ],
+        "question":  "The local authorities are taking steps to cut ______ on air pollution.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-48",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027would rather + S + V-quá khứ\u0027 diễn tả mong muốn ai đó làm gì ở hiện tại.",
+        "answer":  0,
+        "options":  [
+                        "took",
+                        "taking",
+                        "to take",
+                        "take"
+                    ],
+        "question":  "I\u0027d rather you ______ your shoes off before entering the living room.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-49",
+        "question_reading":  "",
+        "explanation":  "Đảo ngữ với \u0027Only after + mệnh đề\u0027, mệnh đề chính phải đảo trợ động từ lên trước chủ ngữ.",
+        "answer":  2,
+        "options":  [
+                        "they began",
+                        "they did begin",
+                        "did they begin",
+                        "began they"
+                    ],
+        "question":  "Only after they had finished the hard work ______ to realize the mistake.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-50",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027Do/Would you mind + V-ing\u0027 (Bạn có phiền làm việc gì đó không).",
+        "answer":  3,
+        "options":  [
+                        "given",
+                        "give",
+                        "to give",
+                        "giving"
+                    ],
+        "question":  "Do you mind ______ me a hand with these heavy wooden boxes?",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-51",
+        "question_reading":  "",
+        "explanation":  "Cụm từ \u0027due to + Noun phrase\u0027 mang nghĩa chỉ nguyên nhân (Bởi vì).",
+        "answer":  3,
+        "options":  [
+                        "because",
+                        "despite",
+                        "since",
+                        "due to"
+                    ],
+        "question":  "The international flight was heavily delayed ______ thick fog.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-52",
+        "question_reading":  "",
+        "explanation":  "Động từ \u0027congratulate someone on V-ing/something\u0027 (chúc mừng ai vì chuyện gì).",
+        "answer":  3,
+        "options":  [
+                        "in",
+                        "at",
+                        "about",
+                        "on"
+                    ],
+        "question":  "She congratulated me ______ passing the university entrance exams.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-53",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc đảo ngữ \u0027No sooner + had + S + V3/ed + than + S + V2/ed\u0027.",
+        "answer":  2,
+        "options":  [
+                        "Hardly",
+                        "Barely",
+                        "No sooner",
+                        "Scarcely"
+                    ],
+        "question":  "______ had we arrived at the beach than it started to rain heavily.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-54",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc giả định \u0027It is essential that + S + (should) + V-nguyên mẫu\u0027.",
+        "answer":  2,
+        "options":  [
+                        "obeys",
+                        "obeying",
+                        "obey",
+                        "obeyed"
+                    ],
+        "question":  "It is essential that every student ______ the strict school rules.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-55",
+        "question_reading":  "",
+        "explanation":  "Cụm động từ \u0027look up\u0027 mang nghĩa tra cứu (từ điển, thông tin).",
+        "answer":  2,
+        "options":  [
+                        "for",
+                        "out",
+                        "up",
+                        "over"
+                    ],
+        "question":  "If you don\u0027t know what this complicated word means, look it ______ in the dictionary.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-56",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027object to + V-ing\u0027 mang nghĩa là phản đối việc làm gì.",
+        "answer":  0,
+        "options":  [
+                        "to",
+                        "on",
+                        "at",
+                        "about"
+                    ],
+        "question":  "My friend strongly objected ______ working on weekends without extra pay.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-57",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc \u0027must have + V3/ed\u0027 thể hiện sự suy luận logic chắc chắn trong quá khứ.",
+        "answer":  0,
+        "options":  [
+                        "must have been",
+                        "can have been",
+                        "should have been",
+                        "could be"
+                    ],
+        "question":  "He didn\u0027t even notice me when he walked passed. He ______ deep in thought.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-58",
+        "question_reading":  "",
+        "explanation":  "\u0027Despite + V-ing\u0027 diễn tả sự tương phản (Mặc dù làm việc chăm chỉ, cô ấy vẫn tràn trề năng lượng).",
+        "answer":  1,
+        "options":  [
+                        "Since",
+                        "Despite",
+                        "Although",
+                        "Because of"
+                    ],
+        "question":  "______ working hard all day, she still felt incredibly energetic in the evening.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-59",
+        "question_reading":  "",
+        "explanation":  "Đại từ quan hệ \u0027which\u0027 thay thế cho danh từ chỉ vật đóng vai trò làm tân ngữ.",
+        "answer":  3,
+        "options":  [
+                        "whom",
+                        "who",
+                        "whose",
+                        "which"
+                    ],
+        "question":  "The modern car ______ I bought last year has broken down twice already.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-60",
+        "question_reading":  "",
+        "explanation":  "Cụm động từ \u0027hand in\u0027 có nghĩa là nộp (bài tập, báo cáo).",
+        "answer":  3,
+        "options":  [
+                        "out",
+                        "over",
+                        "on",
+                        "in"
+                    ],
+        "question":  "All students are strictly required to hand ______ their final assignments by Friday.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    },
+    {
+        "id":  "Part1-61",
+        "question_reading":  "",
+        "explanation":  "Tính từ \u0027dedicated to\u0027 có nghĩa là tận tâm, hết lòng vì cái gì.",
+        "answer":  1,
+        "options":  [
+                        "addicted",
+                        "dedicated",
+                        "adjusted",
+                        "opposed"
+                    ],
+        "question":  "Jane is very ______ to her current job because it offers great long-term benefits.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions."
+    }
+]

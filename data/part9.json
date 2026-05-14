@@ -1,0 +1,562 @@
+﻿[
+    {
+        "id":  "Part9-2",
+        "question_reading":  "",
+        "explanation":  "Dùng liên từ \u0027Because\u0027 đứng đầu câu chỉ nguyên nhân (\u0027we have a long holiday\u0027), thay thế cho liên từ \u0027so\u0027 ở giữa câu.",
+        "answer":  2,
+        "options":  [
+                        "Because of we have a long holiday, we are going to Vung Tau.",
+                        "Because having a long holiday, we are going to Vung Tau.",
+                        "Because we have a long holiday, we are going to Vung Tau.",
+                        "Because we are going to Vung Tau, we have a long holiday."
+                    ],
+        "question":  "We have a long holiday, so we are going to Vung Tau. (Rewrite using \u0027Because\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-3",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc câu ước ở hiện tại (wish + S + V-quá khứ đơn) diễn tả một mong muốn trái ngược với thực tế ở hiện tại.",
+        "answer":  1,
+        "options":  [
+                        "I wish I had had enough money to help them.",
+                        "I wish I had enough money to help them.",
+                        "I wish I don\u0027t have enough money to help them.",
+                        "I wish I have enough money to help them."
+                    ],
+        "question":  "It’s a pity! I don’t have enough money to help them. (Rewrite using \u0027I wish\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-4",
+        "question_reading":  "",
+        "explanation":  "Câu điều kiện loại 1 (If + S + V-hiện tại đơn, S + will + V) diễn tả một giả định có thể xảy ra ở hiện tại hoặc tương lai.",
+        "answer":  3,
+        "options":  [
+                        "If you go to bed early, you will feel tired tomorrow.",
+                        "If you don\u0027t go to bed early, you wouldn\u0027t feel tired tomorrow.",
+                        "If you didn\u0027t go to bed early, you will feel tired tomorrow.",
+                        "If you don\u0027t go to bed early, you will feel tired tomorrow."
+                    ],
+        "question":  "You should go to bed early or you will feel tired tomorrow. (Rewrite using \u0027If you\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-5",
+        "question_reading":  "",
+        "explanation":  "Khi tường thuật câu hỏi có từ để hỏi (Wh-), ta không mượn trợ động từ, giữ nguyên trật tự câu khẳng định và lùi thì (hiện tại đơn chuyển thành quá khứ đơn).",
+        "answer":  0,
+        "options":  [
+                        "She asked me when my final exam started.",
+                        "She asked me when did my final exam start.",
+                        "She asked me when does my final exam start.",
+                        "She asked me when my final exam starts."
+                    ],
+        "question":  "She asked me, “When does your final exam start?” (Rewrite using \u0027She asked\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-6",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc câu ước trái với quá khứ diễn tả sự tiếc nuối: S + wish + S + had + V3/ed.",
+        "answer":  2,
+        "options":  [
+                        "I wish you told me about the party.",
+                        "I wish you would tell me about the party.",
+                        "I wish you had told me about the party.",
+                        "I wish you didn\u0027t tell me about the party."
+                    ],
+        "question":  "What a pity you didn\u0027t tell me about the party. (Rewrite using \u0027I wish\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-7",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc câu ước trái với hiện tại: S + wish + S + V2/ed.",
+        "answer":  1,
+        "options":  [
+                        "I wish I didn\u0027t know how to play the piano.",
+                        "I wish I knew how to play the piano.",
+                        "I wish I know how to play the piano.",
+                        "I wish I had known how to play the piano."
+                    ],
+        "question":  "I am sorry I don\u0027t know how to play the piano. (Rewrite using \u0027I wish\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-8",
+        "question_reading":  "",
+        "explanation":  "Câu ước ở hiện tại, động từ to-be luôn được chia là \u0027were\u0027 (hoặc weren\u0027t) cho tất cả các ngôi.",
+        "answer":  1,
+        "options":  [
+                        "I wish it hadn\u0027t rained heavily now.",
+                        "I wish it weren\u0027t raining heavily now.",
+                        "I wish it wouldn\u0027t rain heavily now.",
+                        "I wish it isn\u0027t raining heavily now."
+                    ],
+        "question":  "It\u0027s a shame that it is raining heavily now. (Rewrite using \u0027I wish\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-9",
+        "question_reading":  "",
+        "explanation":  "Unless = If... not (Trừ khi). Ta giữ nguyên vế sau, bỏ chữ \u0027or\u0027 và đổi vế mệnh lệnh phía trước thành khẳng định (Unless you work = If you don\u0027t work).",
+        "answer":  2,
+        "options":  [
+                        "Unless you worked harder, you wouldn\u0027t pass the final exam.",
+                        "Unless you don\u0027t work harder, you won\u0027t pass the final exam.",
+                        "Unless you work harder, you won\u0027t pass the final exam.",
+                        "Unless you work harder, you will pass the final exam."
+                    ],
+        "question":  "Work harder, or you won\u0027t pass the final exam. (Rewrite using \u0027Unless\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-10",
+        "question_reading":  "",
+        "explanation":  "Tình huống ở hiện tại -\u003e Dùng câu điều kiện loại 2 (trái với hiện tại). Nhớ lùi thì và đổi thể (khẳng định \u003c-\u003e phủ định).",
+        "answer":  3,
+        "options":  [
+                        "If he has a car, he can drive to work.",
+                        "If he didn\u0027t have a car, he couldn\u0027t drive to work.",
+                        "If he had had a car, he could have driven to work.",
+                        "If he had a car, he could drive to work."
+                    ],
+        "question":  "He doesn\u0027t have a car, so he can\u0027t drive to work. (Rewrite using \u0027If\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-11",
+        "question_reading":  "",
+        "explanation":  "Tình huống ở quá khứ -\u003e Dùng câu điều kiện loại 3 (trái với quá khứ): If + S + had PII, S + would have PII.",
+        "answer":  1,
+        "options":  [
+                        "If she hasn\u0027t been careless, she won\u0027t make a lot of mistakes.",
+                        "If she hadn\u0027t been careless, she wouldn\u0027t have made a lot of mistakes.",
+                        "If she weren\u0027t careless, she wouldn\u0027t make a lot of mistakes.",
+                        "If she hadn\u0027t been careless, she would have made a lot of mistakes."
+                    ],
+        "question":  "She was careless, so she made a lot of mistakes. (Rewrite using \u0027If\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-12",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc: Câu mệnh lệnh + or + mệnh đề tương lai -\u003e Đổi thành câu điều kiện loại 1 (If you don\u0027t..., S + will...).",
+        "answer":  1,
+        "options":  [
+                        "If you didn\u0027t keep quiet, the teacher would punish you.",
+                        "If you don\u0027t keep quiet, the teacher will punish you.",
+                        "If you keep quiet, the teacher will punish you.",
+                        "If you won\u0027t keep quiet, the teacher punishes you."
+                    ],
+        "question":  "Keep quiet or the teacher will punish you. (Rewrite using \u0027If\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-13",
+        "question_reading":  "",
+        "explanation":  "Tường thuật lời đề nghị: suggest + V-ing, đồng thời phải lùi trạng từ chỉ thời gian (this -\u003e that).",
+        "answer":  3,
+        "options":  [
+                        "Mary suggested that we went to the beach this weekend.",
+                        "Mary suggested to go to the beach this weekend.",
+                        "Mary suggested going to the beach this weekend.",
+                        "Mary suggested going to the beach that weekend."
+                    ],
+        "question":  "“Why don\u0027t we go to the beach this weekend?” said Mary. (Rewrite using \u0027Mary suggested\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-14",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc xin lỗi: apologize to somebody for V-ing.",
+        "answer":  1,
+        "options":  [
+                        "He apologized to me for to break my favorite vase.",
+                        "He apologized to me for breaking my favorite vase.",
+                        "He apologized me for breaking my favorite vase.",
+                        "He apologized to me to break my favorite vase."
+                    ],
+        "question":  "“I\u0027m sorry I broke your favorite vase,” he said to me. (Rewrite using \u0027He apologized\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-15",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc nhắc nhở ai làm gì: remind somebody to do something.",
+        "answer":  1,
+        "options":  [
+                        "She reminded him turning off the lights.",
+                        "She reminded him to turn off the lights.",
+                        "She reminded him not to turn off the lights.",
+                        "She reminded him not forget to turn off the lights."
+                    ],
+        "question":  "“Don\u0027t forget to turn off the lights,” she told him. (Rewrite using \u0027She reminded\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-16",
+        "question_reading":  "",
+        "explanation":  "Tường thuật câu hỏi Yes/No: mượn if/whether, lùi thì (quá khứ đơn -\u003e quá khứ hoàn thành), đổi trạng từ thời gian (yesterday -\u003e the day before).",
+        "answer":  2,
+        "options":  [
+                        "The boss asked me if I finished the report yesterday.",
+                        "The boss asked me if I had finished the report yesterday.",
+                        "The boss asked me if I had finished the report the day before.",
+                        "The boss asked me whether did I finish the report the day before."
+                    ],
+        "question":  "“Did you finish the report yesterday?” the boss asked me. (Rewrite using \u0027The boss asked\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-17",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc hứa hẹn: promise to do something, nhớ đổi đại từ sở hữu (your -\u003e her) và trạng từ thời gian (tomorrow -\u003e the following day).",
+        "answer":  2,
+        "options":  [
+                        "He promised helping her with her homework tomorrow.",
+                        "He promised to help her with her homework tomorrow.",
+                        "He promised to help her with her homework the following day.",
+                        "He promised he will help her with her homework the following day."
+                    ],
+        "question":  "“I will help you with your homework tomorrow,” he said to her. (Rewrite using \u0027He promised\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-18",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc buộc tội: accuse somebody of V-ing.",
+        "answer":  2,
+        "options":  [
+                        "The boy accused his friend to steal his bicycle.",
+                        "The boy accused his friend for stealing his bicycle.",
+                        "The boy accused his friend of stealing his bicycle.",
+                        "The boy accused his friend on stealing his bicycle."
+                    ],
+        "question":  "“You stole my bicycle!” the boy said to his friend. (Rewrite using \u0027The boy accused\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-19",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc nhượng bộ: Despite + Cụm danh từ/V-ing (lưu ý không dùng \u0027Despite of\u0027 hay \u0027Despite + mệnh đề\u0027).",
+        "answer":  2,
+        "options":  [
+                        "Despite the weather was bad, we went on a picnic.",
+                        "Despite the bad weather, but we went on a picnic.",
+                        "Despite the bad weather, we went on a picnic.",
+                        "Despite of the bad weather, we went on a picnic."
+                    ],
+        "question":  "Although the weather was bad, we went on a picnic. (Rewrite using \u0027Despite\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-20",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc: Even though + mệnh đề (S + V). Trong tiếng Anh, khi đã dùng Although/Even though thì không dùng \u0027but\u0027 ở mệnh đề sau.",
+        "answer":  0,
+        "options":  [
+                        "Even though he is old, he runs five kilometers every morning.",
+                        "Even though his old age, he runs five kilometers every morning.",
+                        "Even though he is old, but he runs five kilometers every morning.",
+                        "Even though being old, he runs five kilometers every morning."
+                    ],
+        "question":  "In spite of his old age, he runs five kilometers every morning. (Rewrite using \u0027Even though\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-21",
+        "question_reading":  "",
+        "explanation":  "Nếu hai mệnh đề cùng chủ ngữ, ta có thể rút gọn thành: Despite + V-ing.",
+        "answer":  3,
+        "options":  [
+                        "Despite her tired, she finished the project on time.",
+                        "Despite she was very tired, she finished the project on time.",
+                        "Despite being very tired, but she finished the project on time.",
+                        "Despite being very tired, she finished the project on time."
+                    ],
+        "question":  "Although she was very tired, she finished the project on time. (Rewrite using \u0027Despite\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-22",
+        "question_reading":  "",
+        "explanation":  "Đổi cụm danh từ (the heavy rain) thành mệnh đề tương đương (it rained heavily) sau liên từ Because.",
+        "answer":  2,
+        "options":  [
+                        "Because it rains heavy, we couldn\u0027t go out.",
+                        "Because the rain was heavily, we couldn\u0027t go out.",
+                        "Because it rained heavily, we couldn\u0027t go out.",
+                        "Because it raining heavily, we couldn\u0027t go out."
+                    ],
+        "question":  "Because of the heavy rain, we couldn\u0027t go out. (Rewrite using \u0027Because\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-23",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc quá... đến nỗi mà: S + V + such + (a/an) + adj + Noun + that + S + V.",
+        "answer":  2,
+        "options":  [
+                        "It was such a test difficult that none of us could do it.",
+                        "It was such difficult a test that none of us could do it.",
+                        "It was such a difficult test that none of us could do it.",
+                        "It was such difficult test that none of us could do it."
+                    ],
+        "question":  "The test was so difficult that none of us could do it. (Rewrite using \u0027It was such\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-24",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc so...that. Lưu ý mệnh đề sau \u0027that\u0027 phải đầy đủ thành phần tân ngữ (drink it) và lùi thì phù hợp với vế trước (was -\u003e couldn\u0027t).",
+        "answer":  0,
+        "options":  [
+                        "The coffee was so hot that I couldn\u0027t drink it.",
+                        "The coffee was so hot that I can\u0027t drink it.",
+                        "The coffee was so hot for me to drink.",
+                        "The coffee was so hot that I couldn\u0027t drink."
+                    ],
+        "question":  "The coffee was too hot for me to drink. (Rewrite using \u0027The coffee was so\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-25",
+        "question_reading":  "",
+        "explanation":  "Chuyển từ động từ thường (drove carelessly) sang to-be và cụm danh từ (was a careless driver).",
+        "answer":  2,
+        "options":  [
+                        "He was such a carelessly driver that he caused an accident.",
+                        "He was such careless a driver that he caused an accident.",
+                        "He was such a careless driver that he caused an accident.",
+                        "He was such a driver careless that he caused an accident."
+                    ],
+        "question":  "He drove so carelessly that he caused an accident. (Rewrite using \u0027He was such\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-26",
+        "question_reading":  "",
+        "explanation":  "Câu bị động với động từ tường thuật: S2 + be + said + to V (khi cả 2 hành động cùng ở hiện tại).",
+        "answer":  3,
+        "options":  [
+                        "He is said that to be the best doctor in town.",
+                        "He is said being the best doctor in town.",
+                        "He is said to have been the best doctor in town.",
+                        "He is said to be the best doctor in town."
+                    ],
+        "question":  "People say that he is the best doctor in town. (Rewrite using \u0027He is said\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-27",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc bị động thì hiện tại hoàn thành: S + have/has + been + V3/ed.",
+        "answer":  3,
+        "options":  [
+                        "A new hospital was built near my house.",
+                        "A new hospital have been built near my house.",
+                        "A new hospital has built near my house.",
+                        "A new hospital has been built near my house."
+                    ],
+        "question":  "They have built a new hospital near my house. (Rewrite using \u0027A new hospital\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-28",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc bị động thì tương lai gần: S + am/is/are + going to be + V3/ed.",
+        "answer":  1,
+        "options":  [
+                        "A new supermarket is going to build here.",
+                        "A new supermarket is going to be built here.",
+                        "A new supermarket are going to be built here.",
+                        "A new supermarket will be built here."
+                    ],
+        "question":  "They are going to build a new supermarket here. (Rewrite using \u0027A new supermarket\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-29",
+        "question_reading":  "",
+        "explanation":  "Bị động của động từ khuyết thiếu/bán khuyết thiếu: need to be + V3/ed (với chủ ngữ \u0027This room\u0027 số ít nên \u0027needs\u0027 phải thêm s).",
+        "answer":  3,
+        "options":  [
+                        "This room needs be cleaned immediately.",
+                        "This room needs clean immediately.",
+                        "This room need to be cleaned immediately.",
+                        "This room needs to be cleaned immediately."
+                    ],
+        "question":  "Someone needs to clean this room immediately. (Rewrite using \u0027This room\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-30",
+        "question_reading":  "",
+        "explanation":  "Chuyển từ so sánh bằng phủ định (không ai bằng) sang so sánh nhất (the + adj-est).",
+        "answer":  2,
+        "options":  [
+                        "Peter is taller boy in the class.",
+                        "Peter is the most tall boy in the class.",
+                        "Peter is the tallest boy in the class.",
+                        "Peter is tallest boy in the class."
+                    ],
+        "question":  "No one else in the class is as tall as Peter. (Rewrite using \u0027Peter is\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-31",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc kinh điển: Câu so sánh nhất thường đi kèm với mệnh đề ở thì hiện tại hoàn thành (This is the most... I have ever...).",
+        "answer":  2,
+        "options":  [
+                        "This is the more beautiful house I have ever seen.",
+                        "This is the beautifulest house I have ever seen.",
+                        "This is the most beautiful house I have ever seen.",
+                        "This is such a beautiful house I have ever seen."
+                    ],
+        "question":  "I have never seen such a beautiful house before. (Rewrite using \u0027This is\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-32",
+        "question_reading":  "",
+        "explanation":  "Chuyển từ so sánh hơn (A hơn B) sang so sánh không bằng (B không bằng A): S + be + not as/so + adj + as + O.",
+        "answer":  0,
+        "options":  [
+                        "English is not as difficult to learn as Russian.",
+                        "English is difficult to learn as Russian.",
+                        "English is more difficult to learn than Russian.",
+                        "English is not difficult to learn as Russian."
+                    ],
+        "question":  "Russian is more difficult to learn than English. (Rewrite using \u0027English is\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-33",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc so sánh kép (Càng... càng...): The + so sánh hơn + S + V, The + so sánh hơn + S + V.",
+        "answer":  0,
+        "options":  [
+                        "The older he gets, the more experienced he becomes.",
+                        "The older he gets, the more experience he becomes.",
+                        "The older he gets, more experienced he becomes.",
+                        "The older he gets, the most experienced he becomes."
+                    ],
+        "question":  "As he gets older, he becomes more experienced. (Rewrite using \u0027The older\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-34",
+        "question_reading":  "",
+        "explanation":  "Chuyển thì hiện tại hoàn thành phủ định sang thì quá khứ đơn: The last time S + V2/ed + was + khoảng thời gian + ago.",
+        "answer":  1,
+        "options":  [
+                        "The last time I have met him was three years ago.",
+                        "The last time I met him was three years ago.",
+                        "The last time I met him is three years ago.",
+                        "The last time I met him was for three years."
+                    ],
+        "question":  "I haven\u0027t met him for three years. (Rewrite using \u0027The last time\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-35",
+        "question_reading":  "",
+        "explanation":  "Chuyển từ quá khứ đơn (started + V-ing + in/ago) sang thì hiện tại hoàn thành tiếp diễn (has/have + been + V-ing + since/for).",
+        "answer":  1,
+        "options":  [
+                        "He has been working in this factory in 2010.",
+                        "He has been working in this factory since 2010.",
+                        "He has worked in this factory from 2010.",
+                        "He has started working in this factory since 2010."
+                    ],
+        "question":  "He started working in this factory in 2010. (Rewrite using \u0027He has\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-36",
+        "question_reading":  "",
+        "explanation":  "Câu hỏi bắt đầu trong quá khứ (When did you begin) chuyển sang câu hỏi kéo dài đến hiện tại (How long have you been V-ing).",
+        "answer":  2,
+        "options":  [
+                        "How long did you begin studying French?",
+                        "How long are you studying French?",
+                        "How long have you been studying French?",
+                        "How long have you studied French ago?"
+                    ],
+        "question":  "When did you begin studying French? (Rewrite using \u0027How long\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-37",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc: This is the first time S + have/has + V3/ed = S + have/has never + V3/ed + before.",
+        "answer":  1,
+        "options":  [
+                        "I have never eat Sushi before.",
+                        "I have never eaten Sushi before.",
+                        "I have never eaten Sushi ago.",
+                        "I have never eaten Sushi then."
+                    ],
+        "question":  "This is the first time I have eaten Sushi. (Rewrite using \u0027I have never\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-38",
+        "question_reading":  "",
+        "explanation":  "Dùng đại từ quan hệ \u0027who\u0027 thay cho chủ ngữ chỉ người \u0027He\u0027, đưa mệnh đề phụ lên đứng ngay sau danh từ nó bổ nghĩa (\u0027The man\u0027).",
+        "answer":  2,
+        "options":  [
+                        "The man which is standing over there is my uncle.",
+                        "The man is standing over there who is my uncle.",
+                        "The man who is standing over there is my uncle.",
+                        "The man whom is standing over there is my uncle."
+                    ],
+        "question":  "The man is standing over there. He is my uncle. (Rewrite using \u0027The man\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-39",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc tiêu tốn thời gian: It takes/took + sb + time + to V = S + spend/spent + time + V-ing.",
+        "answer":  1,
+        "options":  [
+                        "We spent two hours clean the house.",
+                        "We spent two hours cleaning the house.",
+                        "We spent two hours for cleaning the house.",
+                        "We spent two hours to clean the house."
+                    ],
+        "question":  "It took us two hours to clean the house. (Rewrite using \u0027We spent\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-40",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc: find it + adj + to V = have difficulty + (in) + V-ing (gặp khó khăn trong việc gì).",
+        "answer":  0,
+        "options":  [
+                        "I had difficulty understanding the foreign teacher.",
+                        "I had difficulty to understand the foreign teacher.",
+                        "I had difficult understanding the foreign teacher.",
+                        "I had a difficulty understanding the foreign teacher."
+                    ],
+        "question":  "I found it difficult to understand the foreign teacher. (Rewrite using \u0027I had\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    },
+    {
+        "id":  "Part9-41",
+        "question_reading":  "",
+        "explanation":  "Câu xin phép lịch sự: Would you mind if I + V(quá khứ đơn)? = Do you mind if I + V(hiện tại đơn)?",
+        "answer":  1,
+        "options":  [
+                        "Do you mind if I opened the window?",
+                        "Do you mind if I open the window?",
+                        "Do you mind me open the window?",
+                        "Do you mind if I opening the window?"
+                    ],
+        "question":  "Would you mind if I opened the window? (Rewrite using \u0027Do you mind\u0027)",
+        "instruction":  "Rewrite each of the following sentences in such a way that it means almost the same as the original sentence, beginning with the words given."
+    }
+]

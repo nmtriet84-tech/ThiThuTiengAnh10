@@ -1,0 +1,142 @@
+﻿[
+    {
+        "id":  "Part5-2",
+        "question_reading":  "",
+        "explanation":  "Dùng đại từ quan hệ \u0027which\u0027 thay thế cho danh từ chỉ vật \u0027The book\u0027 và đóng vai trò làm tân ngữ, đồng thời phải bỏ đại từ tân ngữ \u0027it\u0027 ở mệnh đề sau.",
+        "answer":  3,
+        "options":  [
+                        "The book which I borrowed it from the library is about natural wonders.",
+                        "The book who I borrowed it from the library is about natural wonders.",
+                        "The book who borrowed from the library is about natural wonders.",
+                        "The book which I borrowed from the library is about natural wonders."
+                    ],
+        "question":  "The book is about natural wonders. I borrowed it from the library.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best combines two sentences in the following question."
+    },
+    {
+        "id":  "Part5-3",
+        "question_reading":  "",
+        "explanation":  "Dùng đại từ quan hệ \u0027whose\u0027 để thay thế cho tính từ sở hữu \u0027Her\u0027, thể hiện sự sở hữu.",
+        "answer":  2,
+        "options":  [
+                        "The woman whose car was stolen yesterday she is my new manager.",
+                        "The woman the car of who was stolen yesterday is my new manager.",
+                        "The woman whose car was stolen yesterday is my new manager.",
+                        "The woman who her car was stolen yesterday is my new manager."
+                    ],
+        "question":  "The woman is my new manager. Her car was stolen yesterday.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best combines two sentences in the following question."
+    },
+    {
+        "id":  "Part5-4",
+        "question_reading":  "",
+        "explanation":  "Dùng đại từ quan hệ \u0027which\u0027 có dấu phẩy phía trước để thay thế cho toàn bộ sự việc ở mệnh đề phía trước (\u0027He passed the driving test\u0027).",
+        "answer":  0,
+        "options":  [
+                        "He passed the driving test, which surprised everyone.",
+                        "He passed the driving test, what surprised everyone.",
+                        "He passed the driving test which it surprised everyone.",
+                        "He passed the driving test that surprised everyone."
+                    ],
+        "question":  "He passed the driving test. This surprised everyone.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best combines two sentences in the following question."
+    },
+    {
+        "id":  "Part5-5",
+        "question_reading":  "",
+        "explanation":  "Giới từ \u0027to\u0027 có thể được đảo lên trước đại từ quan hệ tân ngữ chỉ người \u0027whom\u0027 trong ngữ cảnh trang trọng (lưu ý không dùng \u0027who\u0027 hay \u0027that\u0027 sau giới từ, và phải bỏ \u0027him\u0027 ở mệnh đề sau).",
+        "answer":  2,
+        "options":  [
+                        "That is the man to who I was talking about the project.",
+                        "That is the man whom I was talking to him about the project.",
+                        "That is the man to whom I was talking about the project.",
+                        "That is the man to that I was talking about the project."
+                    ],
+        "question":  "That is the man. I was talking to him about the project.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best combines two sentences in the following question."
+    },
+    {
+        "id":  "Part5-6",
+        "question_reading":  "",
+        "explanation":  "Trạng từ quan hệ \u0027where\u0027 (tương đương in/at which) thay thế cho trạng từ chỉ nơi chốn \u0027there\u0027, do đó phải bỏ \u0027there\u0027 ở mệnh đề sau.",
+        "answer":  1,
+        "options":  [
+                        "This is the restaurant where we had our first date there.",
+                        "This is the restaurant where we had our first date.",
+                        "This is the restaurant which we had our first date there.",
+                        "This is the restaurant which we had our first date."
+                    ],
+        "question":  "This is the restaurant. We had our first date there.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best combines two sentences in the following question."
+    },
+    {
+        "id":  "Part5-7",
+        "question_reading":  "",
+        "explanation":  "Rút gọn mệnh đề quan hệ ở dạng bị động (\u0027which was built\u0027) thành quá khứ phân từ (\u0027built\u0027).",
+        "answer":  3,
+        "options":  [
+                        "The bridge was built in 1990 connects the two cities.",
+                        "The bridge building in 1990 connects the two cities.",
+                        "The bridge built in 1990 which connects the two cities.",
+                        "The bridge built in 1990 connects the two cities."
+                    ],
+        "question":  "The bridge was built in 1990. It connects the two cities.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best combines two sentences in the following question."
+    },
+    {
+        "id":  "Part5-8",
+        "question_reading":  "",
+        "explanation":  "Dùng cấu trúc \u0027so + tính từ + that + mệnh đề\u0027 để nối hai câu mang ý nghĩa \u0027quá... đến nỗi mà\u0027.",
+        "answer":  2,
+        "options":  [
+                        "It was so a bad weather that we had to cancel the flight.",
+                        "The weather was too bad that we had to cancel the flight.",
+                        "The weather was so bad that we had to cancel the flight.",
+                        "The weather was such bad that we had to cancel the flight."
+                    ],
+        "question":  "The weather was very bad. We had to cancel the flight.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best combines two sentences in the following question."
+    },
+    {
+        "id":  "Part5-9",
+        "question_reading":  "",
+        "explanation":  "Dùng \u0027Despite\u0027 (hoặc \u0027In spite of\u0027) + V-ing/Cụm danh từ để kết nối hai câu thể hiện sự nhượng bộ (Mặc dù).",
+        "answer":  0,
+        "options":  [
+                        "Despite having a broken leg, he managed to finish the marathon.",
+                        "Although having a broken leg, he managed to finish the marathon.",
+                        "Despite he had a broken leg, he managed to finish the marathon.",
+                        "In spite of he had a broken leg, he managed to finish the marathon."
+                    ],
+        "question":  "He had a broken leg. He managed to finish the marathon.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best combines two sentences in the following question."
+    },
+    {
+        "id":  "Part5-10",
+        "question_reading":  "",
+        "explanation":  "Kết hợp câu bằng hiện tượng đảo ngữ của câu điều kiện loại 3 (trái ngược với quá khứ) với cấu trúc \u0027Had + S + V3/ed, S + would have + V3/ed\u0027.",
+        "answer":  3,
+        "options":  [
+                        "Unless she double-checked the report, she wouldn\u0027t have made a lot of serious mistakes.",
+                        "If she double-checked the report, she wouldn\u0027t make a lot of serious mistakes.",
+                        "Had she not double-checked the report, she would have made a lot of serious mistakes.",
+                        "Had she double-checked the report, she wouldn\u0027t have made a lot of serious mistakes."
+                    ],
+        "question":  "She didn\u0027t double-check the report. She made a lot of serious mistakes.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best combines two sentences in the following question."
+    },
+    {
+        "id":  "Part5-11",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc đảo ngữ \u0027No sooner + had + S + V3/ed + than + S + V2/ed\u0027 dùng để diễn tả một hành động vừa mới xảy ra thì hành động khác xen tới.",
+        "answer":  2,
+        "options":  [
+                        "No sooner had he stepped out of the office when it started to rain heavily.",
+                        "Hardly had he stepped out of the office than it started to rain heavily.",
+                        "No sooner had he stepped out of the office than it started to rain heavily.",
+                        "No sooner he had stepped out of the office than it started to rain heavily."
+                    ],
+        "question":  "He had just stepped out of the office. It started to rain heavily.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that best combines two sentences in the following question."
+    }
+]

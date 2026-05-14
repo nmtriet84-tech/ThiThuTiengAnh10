@@ -1,0 +1,282 @@
+﻿[
+    {
+        "id":  "Part3-2",
+        "question_reading":  "",
+        "explanation":  "Câu c đưa ra bối cảnh vấn đề (trẻ em mất sách do lũ lụt), câu a đề xuất giải pháp (thu gom sách cũ) và câu b thể hiện sự đồng tình với đề xuất đó.",
+        "answer":  1,
+        "options":  [
+                        "b-a-c",
+                        "c-a-b",
+                        "c-b-a",
+                        "a-b-c"
+                    ],
+        "question":  "a. Mike: I think we should collect our old books to give them. / b. David: I agree. That’s a meaningful thing we can do now. / c. David: Many children don’t have books to learn because severe floods have destroyed all.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-3",
+        "question_reading":  "",
+        "explanation":  "Câu b là mục đích viết thư, câu d nêu thời gian bắt đầu, câu a kể về hoạt động cụ thể, câu e là cảm nhận cá nhân và câu c là lời chào kết thúc.",
+        "answer":  1,
+        "options":  [
+                        "a-b-e-d-c",
+                        "b-d-a-e-c",
+                        "b-e-d-a-c",
+                        "a-e-b-d-c"
+                    ],
+        "question":  "Hi Sam, / a. I joined a volunteer group that teaches English to children in rural areas. / b. I am writing to share something exciting with you. / c. Hope to hear from you soon. / d. Last month, I decided to try something new. / e. It’s been a great experience and I’ve learned a lot from the children, too! / Best, Jessica",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-4",
+        "question_reading":  "",
+        "explanation":  "Câu b là lời mời, câu a là sự đồng ý và hỏi giờ, câu c đề xuất thời gian \u0026 địa điểm, câu d chốt lại lịch hẹn.",
+        "answer":  2,
+        "options":  [
+                        "a-b-c-d",
+                        "c-a-b-d",
+                        "b-a-c-d",
+                        "b-c-a-d"
+                    ],
+        "question":  "a. Mary: Yes, that sounds like a great idea! What time? / b. John: I was wondering if you\u0027d like to grab a coffee this afternoon. / c. John: How about 3 PM at the new cafe down the street? / d. Mary: Perfect. I\u0027ll see you there.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-5",
+        "question_reading":  "",
+        "explanation":  "Câu c mở bài giới thiệu lịch trình, theo sau là trình tự thời gian logic: First (a) -\u003e After lunch (d) -\u003e Finally (b).",
+        "answer":  3,
+        "options":  [
+                        "c-d-a-b",
+                        "a-c-d-b",
+                        "a-d-b-c",
+                        "c-a-d-b"
+                    ],
+        "question":  "Arrange the following sentences: a. First, we will visit the historical museum in the morning. / b. Finally, we\u0027ll head back to the hotel around 6 PM. / c. Dear students, here is the itinerary for our field trip tomorrow. / d. After lunch, we are scheduled to take a guided tour of the botanical gardens.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-6",
+        "question_reading":  "",
+        "explanation":  "Câu a là lời phàn nàn, câu b là lời xin lỗi và đưa ra lựa chọn, câu c là quyết định của khách, và câu d là cách giải quyết cuối.",
+        "answer":  2,
+        "options":  [
+                        "c-a-b-d",
+                        "a-c-b-d",
+                        "a-b-c-d",
+                        "b-a-c-d"
+                    ],
+        "question":  "a. Customer: Excuse me, I bought this shirt yesterday, but it has a tear. / b. Manager: I\u0027m terribly sorry. Would you like a refund or a replacement? / c. Customer: I\u0027d prefer a replacement, please. / d. Manager: Certainly. Let me get a new one for you right away.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-7",
+        "question_reading":  "",
+        "explanation":  "Câu c nêu luận điểm chính, câu b giải thích lợi ích thể chất, câu a bổ sung lợi ích tinh thần (Moreover), và câu d kết luận (Therefore).",
+        "answer":  0,
+        "options":  [
+                        "c-b-a-d",
+                        "a-b-c-d",
+                        "c-a-b-d",
+                        "b-a-c-d"
+                    ],
+        "question":  "Arrange the following sentences: a. Moreover, regular exercise helps improve your mental health. / b. It strengthens your muscles and keeps your heart healthy. / c. Physical activity is essential for maintaining a healthy lifestyle. / d. Therefore, everyone should aim for at least 30 minutes of workout daily.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-8",
+        "question_reading":  "",
+        "explanation":  "Trình tự phỏng vấn: Người phỏng vấn mở đầu (a), ứng viên trả lời (b), hỏi lý do nghỉ việc (c), ứng viên giải thích mục tiêu (d).",
+        "answer":  2,
+        "options":  [
+                        "a-c-b-d",
+                        "c-a-b-d",
+                        "a-b-c-d",
+                        "b-c-a-d"
+                    ],
+        "question":  "a. Interviewer: Thank you for coming. Can you tell me about your previous experience? / b. Applicant: I worked as a marketing assistant for two years. / c. Interviewer: That sounds relevant. Why did you leave that position? / d. Applicant: I am looking for a role with more leadership opportunities.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-9",
+        "question_reading":  "",
+        "explanation":  "Câu b nêu bối cảnh, câu d kể diễn biến ban đầu tốt đẹp, câu a nêu sự cố thời tiết (However), và câu c là kết quả (phải đi về).",
+        "answer":  1,
+        "options":  [
+                        "a-b-c-d",
+                        "b-d-a-c",
+                        "d-a-c-b",
+                        "b-a-d-c"
+                    ],
+        "question":  "Arrange the following sentences: a. However, the weather took a turn for the worse shortly after we set up. / b. We decided to go camping last weekend despite the cloudy forecast. / c. We had to pack everything up and drive back home in the pouring rain. / d. At first, it was pleasant and we managed to pitch our tents quickly.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-10",
+        "question_reading":  "",
+        "explanation":  "Câu a hỏi bài tập, câu b trả lời thông tin, câu c cảm ơn, và câu d đáp lại lời cảm ơn kèm đề nghị giúp đỡ.",
+        "answer":  2,
+        "options":  [
+                        "a-c-b-d",
+                        "b-a-c-d",
+                        "a-b-c-d",
+                        "c-a-b-d"
+                    ],
+        "question":  "a. Sarah: Do you know what the homework is for math class? / b. Mark: I think we have to complete exercises 1 to 5 on page 42. / c. Sarah: Thanks! I completely forgot to write it down. / d. Mark: No problem. Let me know if you need help with any of the problems.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-11",
+        "question_reading":  "",
+        "explanation":  "Trình tự nấu ăn qua các từ khóa: start by (b) -\u003e Next (a) -\u003e Once... (d) -\u003e Finally (c).",
+        "answer":  3,
+        "options":  [
+                        "a-b-d-c",
+                        "b-a-c-d",
+                        "b-d-a-c",
+                        "b-a-d-c"
+                    ],
+        "question":  "Arrange the following sentences: a. Next, add the beaten eggs and stir continuously. / b. To make a simple omelet, start by heating some oil in a pan. / c. Finally, fold the omelet in half and serve it hot. / d. Once the eggs begin to set, sprinkle some cheese and herbs on top.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-12",
+        "question_reading":  "",
+        "explanation":  "Câu a xin phép nghỉ, câu b quản lý hỏi lại lý do, câu c nhân viên trình bày lý do, câu d quản lý đồng ý kèm điều kiện.",
+        "answer":  2,
+        "options":  [
+                        "c-a-b-d",
+                        "a-c-b-d",
+                        "a-b-c-d",
+                        "b-a-c-d"
+                    ],
+        "question":  "a. Employee: Excuse me, Mr. Johnson, could I take next Friday off? / b. Manager: We are quite busy right now. Is it for an urgent matter? / c. Employee: Yes, I need to attend a family wedding out of town. / d. Manager: In that case, I approve. Just make sure to finish your report beforehand.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-13",
+        "question_reading":  "",
+        "explanation":  "Cấu trúc email cơ bản: Lời chào (b), mục đích đính kèm tài liệu (c), yêu cầu xem xét (a), mong chờ phản hồi (d), và kết thư (e).",
+        "answer":  0,
+        "options":  [
+                        "b-c-a-d-e",
+                        "b-d-c-a-e",
+                        "b-c-d-a-e",
+                        "b-a-c-d-e"
+                    ],
+        "question":  "Arrange the following sentences: a. Please review it and let me know if any changes are required. / b. Dear Mr. Smith, / c. I have attached the quarterly financial report as you requested. / d. I look forward to your feedback. / e. Best regards, Kevin.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-14",
+        "question_reading":  "",
+        "explanation":  "Bồi bàn hỏi khách sẵn sàng gọi món chưa (a), khách gọi món chính (b), bồi bàn hỏi thêm món phụ (c), khách chọn món phụ (d).",
+        "answer":  1,
+        "options":  [
+                        "a-c-b-d",
+                        "a-b-c-d",
+                        "c-a-b-d",
+                        "b-a-c-d"
+                    ],
+        "question":  "a. Waiter: Are you ready to order, or do you need a few more minutes? / b. Customer: I think we\u0027re ready. I\u0027ll have the grilled salmon, please. / c. Waiter: Excellent choice. And for your side dish, would you prefer a salad or fries? / d. Customer: I\u0027ll go with the garden salad.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-15",
+        "question_reading":  "",
+        "explanation":  "Câu a giới thiệu chủ đề, câu c giải thích nguyên nhân (this shift), câu b đưa ví dụ (For instance), và câu d bổ sung thêm nguyên nhân phụ.",
+        "answer":  2,
+        "options":  [
+                        "a-b-c-d",
+                        "a-c-d-b",
+                        "a-c-b-d",
+                        "c-a-b-d"
+                    ],
+        "question":  "Arrange the following sentences: a. Renewable energy sources like solar and wind power are becoming more popular. / b. For instance, solar panels can now be seen on many residential rooftops. / c. This shift is mainly due to the increasing awareness of climate change. / d. As technology advances, these alternatives are also becoming more affordable.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-16",
+        "question_reading":  "",
+        "explanation":  "Câu a mở đầu bằng thông tin nghe được, câu b xác nhận, câu c chúc mừng và ngỏ lời giúp đỡ, câu d nhận lời.",
+        "answer":  1,
+        "options":  [
+                        "b-a-c-d",
+                        "a-b-c-d",
+                        "a-c-b-d",
+                        "c-a-b-d"
+                    ],
+        "question":  "a. Alice: I heard you\u0027re moving to a new apartment next month. / b. Bob: Yes, I finally found a place closer to my office. / c. Alice: That\u0027s great! Do you need any help packing your things? / d. Bob: That would be wonderful. I\u0027m planning to pack this Saturday.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-17",
+        "question_reading":  "",
+        "explanation":  "Câu b giới thiệu về vòng tuần hoàn nước, sau đó là trình tự diễn ra: First (c) -\u003e Then (a) -\u003e Finally (d).",
+        "answer":  2,
+        "options":  [
+                        "c-a-d-b",
+                        "b-a-c-d",
+                        "b-c-a-d",
+                        "b-c-d-a"
+                    ],
+        "question":  "Arrange the following sentences: a. Then, the water vapor cools and condenses to form clouds. / b. The water cycle is a continuous process driven by solar energy. / c. First, the sun heats up water in oceans and rivers, causing it to evaporate. / d. Finally, precipitation occurs when the condensed water falls back as rain or snow.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-18",
+        "question_reading":  "",
+        "explanation":  "Hành khách hỏi thời gian (a), nhân viên trả lời (b), hành khách quyết định mua vé (c), nhân viên báo giá và hỏi phương thức thanh toán (d).",
+        "answer":  3,
+        "options":  [
+                        "b-a-c-d",
+                        "c-a-b-d",
+                        "a-c-b-d",
+                        "a-b-c-d"
+                    ],
+        "question":  "a. Passenger: How long does the journey to London take? / b. Ticket Agent: It takes approximately two hours on the express train. / c. Passenger: Great. I\u0027d like to purchase one round-trip ticket, please. / d. Ticket Agent: That will be $45. How would you like to pay?",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-19",
+        "question_reading":  "",
+        "explanation":  "Câu c giới thiệu ưu nhược điểm. Câu d nêu nhược điểm cụ thể. Câu b bổ sung thêm nhược điểm khác. Câu a chuyển sang ưu điểm (Despite these...).",
+        "answer":  1,
+        "options":  [
+                        "c-a-b-d",
+                        "c-d-b-a",
+                        "a-b-c-d",
+                        "c-b-d-a"
+                    ],
+        "question":  "Arrange the following sentences: a. Despite these challenges, living in a big city offers numerous job opportunities. / b. On the other hand, the cost of living is significantly higher than in rural areas. / c. Living in a metropolis has both advantages and disadvantages. / d. Traffic congestion and noise pollution are some of the major drawbacks.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-20",
+        "question_reading":  "",
+        "explanation":  "Câu c là mục đích viết email (lên lịch họp), câu a cung cấp nội dung cuộc họp, câu d dặn dò mang tài liệu, và câu b yêu cầu xác nhận cuối thư.",
+        "answer":  2,
+        "options":  [
+                        "c-b-a-d",
+                        "c-d-a-b",
+                        "c-a-d-b",
+                        "a-c-d-b"
+                    ],
+        "question":  "Arrange the following sentences: a. The meeting will focus on the new marketing strategy for the upcoming quarter. / b. Please confirm your attendance by Thursday afternoon. / c. Hi Team, I\u0027m writing to schedule a brief team meeting this Friday at 10 AM. / d. Make sure to bring your progress reports.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    },
+    {
+        "id":  "Part3-21",
+        "question_reading":  "",
+        "explanation":  "Bác sĩ chào và hỏi triệu chứng (c), bệnh nhân kể triệu chứng (a), bác sĩ khám và hỏi thời gian mắc bệnh (b), bệnh nhân trả lời thời gian (d).",
+        "answer":  3,
+        "options":  [
+                        "b-c-a-d",
+                        "c-b-a-d",
+                        "a-c-b-d",
+                        "c-a-b-d"
+                    ],
+        "question":  "a. Patient: I have a terrible headache and a sore throat. / b. Doctor: Let me check your temperature. How long have you had these symptoms? / c. Doctor: Good morning. What seems to be the problem today? / d. Patient: They started the day before yesterday.",
+        "instruction":  "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions."
+    }
+]
