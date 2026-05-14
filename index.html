@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Luyện Thi Tuyển Sinh 10 - In Đề</title>
+  <style>
+    :root {
+      --ink: #111827;
+      --muted: #5b6472;
+      --line: #cfd6df;
+      --soft: #f5f7fa;
+      --accent: #1f5f8b;
+      --print-font-size: 11pt;
+      --ui-font: "Segoe UI", Arial, sans-serif;
+      --paper-font: "Times New Roman", "Segoe UI", serif;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: #e9edf2;
+      font-family: var(--paper-font);
+    }
+
+    .toolbar {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: end;
+      gap: 15px;
+      padding: 12px 24px;
+      background: #182536;
+      color: #fff;
+      font-family: var(--ui-font);
+      box-shadow: 0 4px 12px rgba(0,0,0,.2);
+    }
+
+    .field {
+      display: grid;
+      gap: 4px;
+      min-width: 100px;
+    }
+
+    .field span {
+      color: #dbe5ef;
+      font-size: 11px;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+
+    .field input, .field select {
+      min-height: 32px;
+      padding: 4px 8px;
+      border-radius: 4px;
+      border: 1px solid #6f7f91;
+    }
+
+    .toolbar button {
+      min-height: 32px;
+      padding: 0 16px;
+      border-radius: 4px;
+      border: none;
+      background: #fff;
+      color: #182536;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .toolbar button.primary {
+      background: #2f6f9c;
+      color: #fff;
+    }
+
+    .page-wrap {
+      width: 210mm;
+      margin: 20px auto;
+    }
+
+    .exam-page {
+      width: 210mm;
+      padding: 12mm 15mm 15mm 15mm;
+      margin: 0 auto 20px;
+      background: #fff;
+      box-shadow: 0 0 15px rgba(0,0,0,0.2);
+      border: 1px solid #ddd;
+      font-size: var(--print-font-size);
+      line-height: 1.35;
+      position: relative;
+      page-break-after: always;
+      break-after: page;
+    }
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      border-bottom: 1.2pt solid #000;
+      padding-bottom: 4px;
+      margin-bottom: 8px;
+    }
+
+    .header-left, .header-right { 
+      text-align: center; 
+      width: 48%; 
+      font-size: 10pt;
+      line-height: 1.2;
+    }
+
+    .title { 
+      text-align: center; 
+      font-weight: bold; 
+      font-size: 13pt; 
+      margin: 8px 0 2px; 
+    }
+
+    .section-title { font-weight: bold; margin-top: 12px; text-decoration: underline; }
+    .instruction { font-style: italic; font-size: 0.95em; margin-bottom: 8px; }
+    
+    .passage {
+      border: 1px solid #000;
+      padding: 10px;
+      margin: 8px 0;
+      background: #fcfcfc;
+      white-space: pre-wrap;
+      font-size: 10.5pt;
+    }
+
+    .question { margin-bottom: 8px; page-break-inside: avoid; }
+    .options { display: grid; grid-template-columns: repeat(4, 1fr); margin-left: 20px; }
+    .options.two-cols { grid-template-columns: 1fr 1fr; }
+    .options.one-col { grid-template-columns: 1fr; }
+
+    .footer { 
+      text-align: center; 
+      margin-top: 15px; 
+      font-weight: bold; 
+      font-size: 11pt;
+    }
+    
+    .page-num { 
+      position: absolute; 
+      bottom: 8mm; 
+      right: 15mm; 
+      font-size: 9pt; 
+      font-family: var(--ui-font);
+    }
+
+    @media print {
+      @page { size: A4; margin: 0; }
+      body { background: #fff; }
+      .toolbar { display: none; }
+      .page-wrap { margin: 0; width: 100%; }
+      .exam-page { box-shadow: none; margin: 0; width: 210mm; }
+    }
+  </style>
+</head>
+<body>
+  <div class="toolbar">
+    <label class="field">
+      <span>Mã đề</span>
+      <input id="examCode" value="101" maxlength="3">
+    </label>
+    <label class="field">
+      <span>Font chữ</span>
+      <select id="fontSize">
+        <option value="10pt">10pt</option>
+        <option value="11pt" selected>11pt</option>
+        <option value="12pt">12pt</option>
+      </select>
+    </label>
+    <button class="primary" onclick="buildExam()">Tạo đề</button>
+    <button onclick="window.print()">Xuất PDF (In)</button>
+    <button id="exportDocxBtn" style="background: #2b8a3e; color: #fff;">Xuất DOCX</button>
+  </div>
+
+  <div class="page-wrap" id="examOutput">
+    <!-- Exam Content -->
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/docx@8.2.2/build/index.umd.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.5/dist/FileSaver.min.js"></script>
+  <script src="quiz-engine.js"></script>
+</body>
+</html>
