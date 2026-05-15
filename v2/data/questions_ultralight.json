@@ -3809,7 +3809,10 @@
     "id": "EN10M2030001",
     "q": "[IMG:image1.jpeg] What does the sign say?",
     "o": [
-      ""
+      "Eating and drinking are not permitted in this area at all times.",
+      "You are allowed to eat and drink here without any restrictions.",
+      "You can bring drinks but not food into this area.",
+      "Food is permitted but drinks are not allowed in this area."
     ],
     "e": ""
   },
@@ -3817,8 +3820,8 @@
     "id": "EN10M2030002",
     "q": "[IMG:image2.png] What does this notice say?",
     "o": [
-      "The gold watch has been found and is available for £50.",
       "£50 will be given to the person who returns the gold watch.",
+      "The gold watch has been found and is available for £50.",
       "You need to pay £50 to get the lost gold watch back.",
       "The owner is offering £100 for the return of the gold watch."
     ],
@@ -3828,10 +3831,10 @@
     "id": "EN10M2030003",
     "q": "[IMG:image3.jpeg] What does the sign say",
     "o": [
+      "You should only drive if you have not had any alcohol to drink.",
       "Drinking alcohol is not safe when you are driving a car or other vehicles.",
       "You can drive a car if you drink only a little alcohol and feel okay.",
-      "It is good to drink water while driving so you stay awake and safe.",
-      "You should only drive if you have not had any alcohol to drink."
+      "It is good to drink water while driving so you stay awake and safe."
     ],
     "e": ""
   },
@@ -3839,8 +3842,8 @@
     "id": "EN10M2030004",
     "q": "[IMG:image4.png] What should you bring?",
     "o": [
-      "Bring a book and a pencil",
       "Bring a notebook and a pen",
+      "Bring a book and a pencil",
       "Bring a laptop and a highlighter",
       "Bring a tablet and a notebook"
     ],
@@ -3861,9 +3864,9 @@
     "id": "EN10M2030006",
     "q": "[IMG:image6.png] What does this notice say?",
     "o": [
+      "You will get a free cookie when you buy milk tea on Tuesday",
       "You buy milk tea and get a free cookie every day",
       "Milk tea and cookies are always free on Tuesday",
-      "You will get a free cookie when you buy milk tea on Tuesday",
       "You get milk tea and a cookie for 35,000 VND every day"
     ],
     "e": ""
@@ -3872,8 +3875,8 @@
     "id": "EN10M2030007",
     "q": "[IMG:image7.png] What does this sign mean?",
     "o": [
-      "Don't make the floor wet.",
       "Be careful as the floor is wet.",
+      "Don't make the floor wet.",
       "Wet floor makes you cautious.",
       "Don't step on the wet floor."
     ],
@@ -3883,9 +3886,9 @@
     "id": "EN10M2030008",
     "q": "[IMG:image8.png] What does this notice say?",
     "o": [
+      "You must not take photographs here.",
       "You should take photographs here.",
       "You can take photographs here.",
-      "You must not take photographs here.",
       "You don’t have to take photographs here."
     ],
     "e": ""
@@ -3894,8 +3897,8 @@
     "id": "EN10M2030009",
     "q": "[IMG:image9.jpeg] What does the sign mean?",
     "o": [
-      "You can only park here for 40 minutes.",
       "You must not drive over 40 km per hour.",
+      "You can only park here for 40 minutes.",
       "You should travel exactly 40 miles today.",
       "You only carry loads under 40 kilograms."
     ],
