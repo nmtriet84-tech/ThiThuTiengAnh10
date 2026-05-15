@@ -9,10 +9,11 @@ async function buildExam() {
 
     // 1. Load Modular Data
     try {
+        const timestamp = new Date().getTime();
         const [questions, readingDict, instDict] = await Promise.all([
-            fetch('data/questions_ultralight.json').then(res => res.json()),
-            fetch('data/reading.json').then(res => res.json()),
-            fetch('data/instruction.json').then(res => res.json())
+            fetch(`data/questions_ultralight.json?v=${timestamp}`).then(res => res.json()),
+            fetch(`data/reading.json?v=${timestamp}`).then(res => res.json()),
+            fetch(`data/instruction.json?v=${timestamp}`).then(res => res.json())
         ]);
 
         // 2. Setup Exam Structure
@@ -61,8 +62,11 @@ async function buildExam() {
 
             if (selected.length === 0) continue;
 
-            // ... Options shuffling ...
-            selected.forEach(q => {
+            // Deep copy to prevent mutating the master bank
+            const selectedCopy = JSON.parse(JSON.stringify(selected));
+
+            // Shuffling options
+            selectedCopy.forEach(q => {
                 if (q.o && q.o.length > 1) {
                     const correctText = q.o[0];
                     const shuffled = [...q.o].sort(() => Math.random() - 0.5);
@@ -72,7 +76,7 @@ async function buildExam() {
             });
 
             const instText = instDict[groupId] || "";
-            currentExamData.push({ config: conf, questions: JSON.parse(JSON.stringify(selected)), passage: currentPassageText, partNumber: i + 1, instructionText: instText });
+            currentExamData.push({ config: conf, questions: selectedCopy, passage: currentPassageText, partNumber: i + 1, instructionText: instText });
 
             // Layout Elements
             if (i === 0) allElements.push({ type: 'section-main', text: 'A. PHẦN TRẮC NGHIỆM' });
@@ -81,7 +85,7 @@ async function buildExam() {
             allElements.push({ type: 'section-part', text: `Part ${i + 1}.`, instruction: instText });
             if (currentPassageText) allElements.push({ type: 'passage', text: currentPassageText });
 
-            selected.forEach((q, sIdx) => {
+            selectedCopy.forEach((q, sIdx) => {
                 allElements.push({ type: 'question', data: q, displayQuestion: q.q, index: qGlobalIndex++, hasOptions: conf.hasOptions, partId: conf.id });
             });
         }
@@ -173,24 +177,33 @@ function renderElement(el) {
             const q = el.data;
             let colClass = 'four-cols';
             let displayQ = el.displayQuestion;
+            let imgHtml = '';
 
-            // Handle [IMG:...] markers
+            // Handle [IMG:...] markers separately from text
             if (displayQ.includes('[IMG:')) {
                 displayQ = displayQ.replace(/\[IMG:(.*?)\]/, (match, imgName) => {
                     let src = imgName.trim();
                     if (!src.includes('.')) src += '.png';
-                    return `<div style="text-align:center; margin:10px 0;"><img src="img/${src}" style="max-height:120px; border:1px solid #eee;"></div>`;
+                    imgHtml = `<div style="text-align:center; margin:10px 0;"><img src="img/${src}" style="max-height:120px; border:1px solid #eee;"></div>`;
+                    return ''; // Remove marker from text
                 });
             }
 
             if (el.hasOptions) {
-                const isLong = q.o.some(opt => opt.length > 15);
+                const isLong = (q.o || []).some(opt => opt && opt.length > 15);
                 if (el.partId === 'part9' || el.partId === 'part10' || el.partId === 'part11') colClass = 'one-col';
                 else if (isLong) colClass = 'two-cols';
-                let optHtml = `<div class="options ${colClass}">` + q.o.map((opt, idx) => `<span><strong>${['A','B','C','D'][idx]}.</strong> ${opt}</span>`).join('') + `</div>`;
-                return `<div class="question" style="color:#000;"><strong>Question ${el.index}:</strong> ${displayQ}${optHtml}</div>`;
+                
+                // Final safety: ensure options exist and are strings
+                const safeOptions = (q.o || []).map(opt => (opt || '???').toString());
+                
+                let optHtml = `<div class="options ${colClass}">` + safeOptions.map((opt, idx) => 
+                    `<span><strong>${['A','B','C','D'][idx]}.</strong> ${opt}</span>`
+                ).join('') + `</div>`;
+                
+                return `<div class="question" style="color:#000;"><strong>Question ${el.index}:</strong> ${displayQ}${imgHtml}${optHtml}</div>`;
             } else {
-                return `<div class="question" style="color:#000;"><strong>Question ${el.index}:</strong> ${displayQ}<div style="margin-top:4px;">&#10144; __________________________________________________________________</div></div>`;
+                return `<div class="question" style="color:#000;"><strong>Question ${el.index}:</strong> ${displayQ}${imgHtml}<div style="margin-top:4px;">&#10144; __________________________________________________________________</div></div>`;
             }
     }
 }
