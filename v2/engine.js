@@ -219,21 +219,53 @@ async function exportToDocx() {
     ];
 
     let qCount = 1;
-    currentExamData.forEach(part => {
+    for (const part of currentExamData) {
         if (part.config.id === 'part9') children.push(new Paragraph({ text: "B. PHẦN TỰ LUẬN", bold: true, alignment: AlignmentType.CENTER, spacing: { before: 400, after: 200 } }));
         children.push(new Paragraph({ children: [new TextRun({ text: `Part ${part.partNumber}.`, bold: true }), new TextRun({ text: " " + part.instructionText, italic: true })], spacing: { before: 200 } }));
         if (part.passage) children.push(new Paragraph({ children: [new TextRun({ text: part.passage })], border: { top: { style: BorderStyle.SINGLE }, bottom: { style: BorderStyle.SINGLE }, left: { style: BorderStyle.SINGLE }, right: { style: BorderStyle.SINGLE } }, spacing: { before: 200, after: 200 } }));
-        part.questions.forEach((q, sIdx) => {
+        
+        for (let sIdx = 0; sIdx < part.questions.length; sIdx++) {
+            const q = part.questions[sIdx];
             let displayQ = q.q;
-            if (part.config.id === 'part7') displayQ = `(${sIdx + 1})`; // Part 7 Cloze
-            
-            // For Word, just strip the [IMG:...] tag or add a placeholder
-            displayQ = displayQ.replace(/\[IMG:(.*?)\]/, "(Image: $1) ");
+            if (part.config.id === 'part7') displayQ = `(${sIdx + 1})`; 
 
-            children.push(new Paragraph({ children: [new TextRun({ text: `Question ${qCount}: `, bold: true }), new TextRun(displayQ)], spacing: { before: 100 } }));
+            const questionParaChildren = [
+                new TextRun({ text: `Question ${qCount}: `, bold: true })
+            ];
+
+            // Handle [IMG:...] for Word
+            if (displayQ.includes('[IMG:')) {
+                const imgMatch = displayQ.match(/\[IMG:(.*?)\]/);
+                if (imgMatch) {
+                    const imgName = imgMatch[1].trim();
+                    const cleanQ = displayQ.replace(/\[IMG:.*?\]/, "").trim();
+                    questionParaChildren.push(new TextRun(cleanQ));
+                    children.push(new Paragraph({ children: questionParaChildren, spacing: { before: 100 } }));
+                    
+                    try {
+                        const response = await fetch(`img/${imgName}`);
+                        if (response.ok) {
+                            const blob = await response.blob();
+                            const buffer = await blob.arrayBuffer();
+                            children.push(new Paragraph({
+                                children: [new docx.ImageRun({
+                                    data: buffer,
+                                    transformation: { width: 150, height: 120 }
+                                })],
+                                alignment: AlignmentType.CENTER,
+                                spacing: { before: 100, after: 100 }
+                            }));
+                        }
+                    } catch (e) { console.error("Could not embed image in Word", e); }
+                }
+            } else {
+                questionParaChildren.push(new TextRun(displayQ));
+                children.push(new Paragraph({ children: questionParaChildren, spacing: { before: 100 } }));
+            }
+
             if (part.config.hasOptions) {
                 const optChildren = [];
-                part.questions[sIdx].o.forEach((opt, idx) => {
+                q.o.forEach((opt, idx) => {
                     optChildren.push(new TextRun({ text: ["A. ", "B. ", "C. ", "D. "][idx], bold: true }));
                     optChildren.push(new TextRun({ text: opt + "\t\t" }));
                 });
@@ -242,8 +274,8 @@ async function exportToDocx() {
                 children.push(new Paragraph({ text: "--> __________________________________________________________________", spacing: { before: 100 } }));
             }
             qCount++;
-        });
-    });
+        }
+    }
 
     // Final End Marker for Word
     children.push(new Paragraph({ 
